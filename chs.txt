@@ -828,7 +828,7 @@ txt_solid: 固实
 txt_solid_block: 固实块
 txt_solid_auto: 固实，自动调节
 txt_solid_extension: 固实，按扩展名分组
-txt_listtest: 抱歉，暂不支持对此格式进行列表/测试操作
+txt_listtest: 抱歉，暂不支持对此格式进行列表 / 测试操作
 txt_sortbysel: 对选中的项目排序
 txt_list_sorting: 排序 ...
 txt_speed: 速度
@@ -847,7 +847,7 @@ txt_syntax: 语法:
 txt_sysbenchmark: 系统基准程序
 txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续吗？
 txt_systools: 系统工具
-txt_tarbefore: TAR 优先
+txt_tarbefore: 先用 TAR 打包
 txt_type_description_tar: TAR：UNIX 系统上的主流归档文件格式
 txt_taskman: 任务管理器
 txt_caption_test: 测试
@@ -887,7 +887,7 @@ txt_type_description_upx: UPX: 仅压缩可执行文件
 txt_advfilters: 使用高级过滤器
 txt_openfiles_hint: 使用此选项可以将其它程序正在使用的文件强制包含在压缩文档中（在备份时很有用）
 txt_usenet: Usenet
-txt_user_name: 用户名; 如有必要，可以使用用户名@域 或 域\用户名 格式。
+txt_user_name: 用户名; 如有必要，可以使用 用户名@域 或 域\用户名 格式。
 txt_using: 使用:
 txt_volumepea: 卷控制
 txt_volume_size: 卷大小
