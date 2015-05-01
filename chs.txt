@@ -1,12 +1,19 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-5.5
+5.6
 翻译: Aerowolf, Junde Yi
 Last rev. by: Junde Yi
 Last rev.: 20150110
 
 === PeaZip text group ===
 
+txt_5_6_basic: 基本
+txt_5_6_exarc: 解压压缩文件
+txt_5_6_tab: 在新标签页中打开
+txt_5_6_rc: 右击显示选项
+txt_5_6_layouts: 保存的布局
+txt_5_6_upexisting: 更新已存在的压缩文件
+txt_5_6_verbose: 显示详细信息
 txt_5_5_case: （区分大小写）
 txt_5_5_add: 在指定的位置插入字串
 txt_5_5_addsel: 添加到当前选择处
@@ -316,7 +323,7 @@ txt_2_7_pwnotset: 未设密码
 txt_2_7_pwarcset: 已设密码
 txt_2_7_pwextset: 已设密码，用于解压、查看、测试已加密的压缩文档
 txt_2_7_archivehint: 右击可以添加文件到压缩文档、查看其它功能，或者也可以拖拽到此处进行添加
-txt_2_7_exthint: 右击可以添加文件到解压、查看其它功能，或者也可以拖拽文件到此处进行解压
+txt_2_7_exthint: 右击可以添加文件来解压、查看其它功能，或者也可以将文件拖放到这里进行解压
 txt_2_7_setadvf: 设置高级过滤器
 txt_2_7_selpath: 选中的项目的路径
 txt_2_7_separateerror: 抱歉，使用“添加每个对象到单独的压缩文档”开关时，不能导入作业定义的命令行，这是因为作业是被作为多个单独的命令执行的
@@ -339,7 +346,7 @@ txt_2_5_langflag: 以 UTF8 编码显示压缩档案名称；不选则用“?”�
 txt_2_5_encpj: 将作业保存为 UTF-8 格式
 txt_2_5_execommand: 可执行文件或命令
 txt_2_5_help: 帮助[&H]
-txt_2_5_langhint: 提示：用“?”替换扩展字符。如果在当前机器上，压缩文档的字符设置不能被成功地转换，合理的替换能够提升算法
+txt_2_5_langhint: 提示：用“?”替换扩展字符。如果在当前机器上，压缩文档的字符集不能被成功地转换，合理的替换能够优化算法。
 txt_2_5_mini_help: 简明教程
 txt_2_5_offline_help: PeaZip帮助
 txt_2_5_tray: 缩小到系统托盘
@@ -824,7 +831,7 @@ txt_sizeb: 大小（字节）
 txt_skip_existing: 跳过已有文件
 txt_slowercomp: 压缩较慢，但解压较快
 txt_smaller: 小于选定对象
-txt_solid: 固实 
+txt_solid: 固实
 txt_solid_block: 固实块
 txt_solid_auto: 固实，自动调节
 txt_solid_extension: 固实，按扩展名分组
@@ -906,6 +913,12 @@ txt_zipcrypto_hint: ZipCrypto（已过时）
 
 === PeaLauncher text group ===
 
+txt_5_6_update: Check for updates
+txt_5_6_cml: System context menu language
+txt_5_6_donations: Donations
+txt_5_6_localization: Localization
+txt_5_6_runasadmin: Run as administrator
+txt_5_6_help: Support
 txt_5_5_cancelall: Cancel all
 txt_5_3_details: 详细信息
 txt_5_3_files: 文件
@@ -1139,6 +1152,7 @@ PeaZip 是一款便携、开源的压缩文件打包、加密和分割文件工�
 PeaZip 拥有强大的多重过滤器，一次能够处理多个压缩文档，输出作业定义为命令行，能使用 AES256 加密压缩文件。
 
 其他功能: 分割 / 合并文件（文件范围）、安全擦除、比较、校验和计算文件散列、系统基准测试、生成随机密码和密钥文件。
+
 
 下载和查看修改记录，请访问: http://peazip.sourceforge.net/ | http://www.peazip.org/
 更多参见: http://peazip.sourceforge.net/peazip-free-archiver.html
