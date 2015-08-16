@@ -3,13 +3,13 @@ Chinese - 简体中文
 5.7
 翻译: Aerowolf, Junde Yi
 Last rev. by: Junde Yi
-Last rev.: 20150110
+Last rev.: 20150816
 
 === PeaZip text group ===
 
-txt_5_7_pinstalled: INSTALLED
-txt_5_7_pmissing: MISSING
-txt_5_7_plugin: Plugin missing, can be installed from Help > Check for pulgin and addon
+txt_5_7_pinstalled: 已安装
+txt_5_7_pmissing: 丢失
+txt_5_7_plugin: 插件丢失，可以在帮助 > 获取插件处安装
 txt_5_6_basic: 基本
 txt_5_6_exarc: 解压压缩文件
 txt_5_6_tab: 在新标签页中打开
