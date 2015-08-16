@@ -44,17 +44,17 @@ txt_5_5_datesameweek: 和选中项目同一周的
 txt_5_5_datesameyear: 和选中项目同一年的
 txt_5_5_scan: 扫描
 txt_5_5_select: 选择
-txt_5_5_similar: 和选中项目很像的
-txt_5_5_starting: 以同样字母开头的
+txt_5_5_similar: 和选中项目相似
+txt_5_5_starting: 以同样字母开头
 txt_5_5_string: 要添加的字串
-txt_5_5_subtractsel: 除开当前选择的字串
-txt_5_5_datehour: 一小时内
-txt_5_5_datemonth: 本月内
-txt_5_5_dateweek: 本周内
-txt_5_5_dateyear: 一年内
-txt_5_5_dateday: 今天内
+txt_5_5_subtractsel: 排除当前选择
+txt_5_5_datehour: 这小时内
+txt_5_5_datemonth: 这个月内
+txt_5_5_dateweek: 这周内
+txt_5_5_dateyear: 这年内
+txt_5_5_dateday: 这天内
 txt_5_5_upper: 大写字母
-txt_5_5_extw: 警告：修改文件后缀名可能导致文件不可用。
+txt_5_5_extw: 警告：修改文件后缀名可能导致文件不可用
 txt_5_4_da: 添加日期
 txt_5_4_deletearchives: 解压后删除原压缩文件
 txt_5_4_deletefiles: 压缩后删除源文件
@@ -97,7 +97,7 @@ txt_5_1_w6: 星期五
 txt_5_1_hourly: 每小时
 txt_5_1_hours: 小时
 txt_5_1_last: 最后
-txt_5_1_schedmanage: 任务调度，管理 PeaZip 的调度任务。
+txt_5_1_schedmanage: 任务调度，管理 PeaZip 的调度任务
 txt_5_1_scriptmanage: 管理保存的调度脚本
 txt_5_1_w2: 星期一
 txt_5_1_monthly: 每月
@@ -121,7 +121,7 @@ txt_5_1_w4: 星期三
 txt_5_1_weekly: 每周
 txt_5_1_weeks: 周
 txt_5_0_bc: 地址块
-txt_5_0_resetpm: 你确定重置密码管理器吗？如果这样，所有存储在其中的密码将会悉数遗失。
+txt_5_0_resetpm: 你确定重置密码管理器吗？如果是，所有存储在其中的密码将会悉数遗失。
 txt_5_0_enum: 列出目录内容
 txt_5_0_music: 音乐
 txt_5_0_ps: 在此打开 PowerShell
@@ -177,7 +177,7 @@ txt_4_5_koupdate: 没能连接到升级服务器，不能检查更新。
 txt_4_5_update: 检查更新
 txt_4_5_dock: 停靠
 txt_4_5_l: 左侧
-txt_4_5_noupdate: PeaZip 已经是最新。
+txt_4_5_noupdate: PeaZip 已是最新。
 txt_4_5_properties: 属性
 txt_4_5_r: 右侧
 txt_4_5_pj: 已保存的作业定义脚本
@@ -204,7 +204,7 @@ txt_4_3_resetpm: 重置密码管理器？保存的所有密码都会被删除
 txt_4_3_breadcrumb: 以地址块显示地址？
 txt_4_2_arcabspath: 使用绝对路径
 txt_4_1_duplicateshint: 对于在当前目录或搜索过滤中发现的复制的项目，“大小”/“检验和”显示在CRC列中
-txt_4_1_adminhint: （提示：提升用户权限，您可以按Alt+F10，或点击选项>以管理员身份运行）
+txt_4_1_adminhint: （提示：提升用户权限，您可以按 Alt + F10，或点击选项 > 以管理员身份运行）
 txt_4_1_selected: （选定）
 txt_4_1_duplicatesfound: 找到的重复文件
 txt_4_1_duplicatesfind: 查找重复文件
@@ -212,7 +212,7 @@ txt_4_1_runasadmin: 以管理员身份运行
 txt_4_1_simplesearch: 简洁搜索
 txt_4_0_thim: 显示图片缩略图
 txt_3_8_type_description_wim: WIM: 微软磁盘镜像格式
-txt_3_8_type_description_xz: XZ: 基于LZMA2的强大的文件压缩算法
+txt_3_8_type_description_xz: XZ: 基于 LZMA2 的强大的文件压缩算法
 txt_3_7_donations: 捐赠
 txt_3_7_nameasparent: 如果添加了多个项目，则以这些项目所在文件夹的名称命名压缩文件
 txt_3_7_tracker: PeaZip追踪器：bug、特征需求
@@ -232,12 +232,12 @@ txt_3_3_stralt: 无参数传递时，命令可选
 txt_3_3_apps: 应用程序
 txt_3_3_multi: 多选
 txt_3_3_runexp: 打开程序、文件、文件夹或网站
-txt_3_3_apppath: 打开 PeaZip的文件夹
+txt_3_3_apppath: 打开 PeaZip 的文件夹
 txt_3_3_run: 运行
-txt_3_2_7zutf8nonascii: 7z/p7zip -mcu 对 .zip 压缩文档中包含的、名称中有非 ASCII 字符的文件，使用 UTF8 编码
+txt_3_2_7zutf8nonascii: 7z/p7zip -mcu 对 .zip 压缩文档内，文件名中含有非 ASCII 字符的文件，使用 UTF8 编码
 txt_3_2_alltasks: 所有任务
 txt_3_2_conf: 配置
-txt_3_2_donations: 捐赠
+txt_3_2_donations: 给慈善机构捐赠
 txt_3_1_sccenc: 7z/p7zip -scc 字符编码
 txt_3_1_downloads: 下载
 txt_3_1_lib: 库
@@ -246,17 +246,17 @@ txt_3_1_openasarchive: 作为压缩文档打开
 txt_3_1_sendto: 打开用户的“发送到”文件夹
 txt_3_1_pathexc: 允许的路径太长
 txt_3_1_recent: 近期访问的项目
-txt_3_1_plsmartmin: 最小化运行，仅在需要时显示/保持打开
+txt_3_1_plsmartmin: 最小化运行，仅在需要时显示或保持打开
 txt_3_1_src: 搜索
 txt_3_1_systmp: 系统临时文件夹
 txt_3_1_languagetools: 翻译
 txt_3_1_workingdir: 工作目录
 txt_3_0_nonreadableorpw: 压缩无法读取。输入密码试试？
-txt_3_0_readablepw: 压缩文档似乎有密码
+txt_3_0_readablepw: 压缩文档似乎有密码保护
 txt_3_0_configure: 系统集成
 txt_3_0_resettmp: 重置 PeaZip 临时文件夹
 txt_2_9_address: 地址栏
-txt_2_9_adv: 管理任何 7z 或 FreeArc 后台支持的文件，都可以使用高级过滤，请参见文档，并且不接受基本过滤（用于搜索功能，并显示在书签和历史记录面板中）。
+txt_2_9_adv: 管理任何 7z 或 FreeArc 后台支持的文件，都可以使用高级过滤，请参见文档，并且不接受基本过滤（用于搜索功能，并显示在书签和历史记录面板中）
 txt_2_9_columns: 列
 txt_2_9_copyhere: 复制到此处
 txt_2_9_noscan: 不要扫描添加到视图中的文件
@@ -282,7 +282,7 @@ txt_2_9_toolbar: 工具栏
 txt_2_9_tree: 目录树
 txt_2_9_views: 视图
 txt_2_8_experimental: （试验功能）
-txt_2_8_zcopy: （Windows） 以重启模式复制文件，速度更慢
+txt_2_8_zcopy: （Windows）以可重启模式复制文件，速度更慢
 txt_2_8_addvol: 整卷添加到压缩文档可能耗时较多，继续吗？
 txt_2_8_uniterror: 无法访问该设备
 txt_2_8_cannotconvert: 无法转换选择的压缩文档
@@ -361,7 +361,7 @@ txt_2_5_strbefore: 输入名称前的字符串
 txt_2_5_encoding: 文本编码
 txt_2_5_nopw: 该压缩文档格式不支持加密
 txt_2_4_draghint: [拖拽到启用了地址栏的资源管理器]
-txt_2_4_tb: 适应工具栏按钮（重启PeaZip）
+txt_2_4_tb: 适应工具栏按钮（重启 PeaZip）
 txt_2_4_adding: 添加
 txt_2_4_advclip: 在剪贴板中保留多个选择项
 txt_2_4_yanswers: 答复
@@ -380,11 +380,11 @@ txt_2_4_removefromclipboard: 从剪贴板中删除
 txt_2_4_stdclip: Standard: 仅在剪贴板中保留 1 个选择项，粘贴后即删除剪切项
 txt_2_4_totalmem: 内存总计
 txt_2_4_gvideo: 视频
-txt_2_4_wbook: Wikibook
-txt_2_4_wnews: Wiki新闻
-txt_2_4_wsrc: Wiki文库
-txt_2_4_wdict: Wik词典
-txt_2_3_pw_errorchar: 在当前系统、PeaZip 图形界面中，引用的字符不能用在密码中，请修改密码或者在“工具>设置”中选择终端模式
+txt_2_4_wbook: 维基教科书
+txt_2_4_wnews: 维基新闻
+txt_2_4_wsrc: 维基文库
+txt_2_4_wdict: 维基词典
+txt_2_3_pw_errorchar: 在当前系统、PeaZip 图形界面中，引号不能用在密码中，请修改密码或者在“工具 > 设置”中选择终端模式
 txt_2_3_envstr: 显示环境变量
 txt_2_3_never_pw: 不再询问密码
 txt_2_3_home: 用户目录
@@ -413,7 +413,7 @@ txt_7z_exitcode1: 1: 警告: 非致命错误；比如某些文件丢失或者被
 txt_attach10: 10 MB （附件大小）
 txt_7z_exitcode2: 2: 发生致命错误
 txt_7z_exitcode255: 255: 作业被用户中止
-txt_fat32: 4 GB （在FAT32格式中单个文件大小不能超过4G）
+txt_fat32: 4 GB （FAT32 文件系统单个文件最大大小）
 txt_dvd: 4.7 GB DVD
 txt_attach5: 5 MB （附件大小）
 txt_cd650: 650 MB光盘
@@ -489,8 +489,8 @@ txt_un7z_browse_failure: 不能浏览压缩文档
 txt_list_error: 不能列出压缩文档内容，请检查压缩文档是否有密码保护或者已经损坏。
 txt_conf_cannotsave: 不能保存配置文件，请检查路径是否允许写入并且有剩余空间
 txt_check_hint: 检测非故意导致的数据损坏；Hash 算法也适用于检测恶意数据篡改（参见文档）
-txt_check: 校验和/Hash文件
-txt_check_select: 校验和/Hash
+txt_check: 校验和 / Hash 文件
+txt_check_select: 校验和 / Hash
 txt_clear: 清除
 txt_clearlayout: 清除视图
 txt_pj_hint: 点此导入作业，重置修改，并从用户界面载入定义的日期
@@ -774,7 +774,7 @@ txt_please_wait: 请稍候
 txt_copy_wait: 在执行其他预定的同类型操作之前，请等待当前的预定的文件复制/移动操作完成
 txt_previewwith: 用此预览 ...
 txt_projectadmin: 项目管理员:
-txt_type_description_quad: BALZ/QUAD: 高性能、基于 ROLZ 的文件压缩程序
+txt_type_description_quad: BALZ / QUAD: 高性能、基于 ROLZ 的文件压缩程序
 txt_quickdelete: 快速删除
 txt_quit: 退出[&X]
 txt_unit_ram: 内存盘
@@ -866,7 +866,7 @@ txt_testdisp: 测试显示的对象
 txt_testpw: 测试密码 / 密钥文件
 txt_testsel: 测试选定对象
 txt_col_hint: 为了和图标以及其它图形界面元素较好地协调，应当选择颜色
-txt_bookmarks_hint: 点击“更多控制”和“切换历史记录/书签”，可以在文件浏览器界面中可以找到完整、可编辑的列表
+txt_bookmarks_hint: 点击“更多控制”和“切换历史记录 / 书签”，可以在文件浏览器界面中可以找到完整、可编辑的列表
 txt_archive_noinput_tolist: 视图为空：请使用添加文件、添加文件夹或者载入视图来充实压缩视图
 txt_theme: 主题
 txt_icons_found: 主题载入成功。
