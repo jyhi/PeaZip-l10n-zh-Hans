@@ -947,9 +947,9 @@ txt_3_0_arc: 某些输入文件无法被读取（可能被锁定，无法访问�
 txt_3_0_ext: 当前操作需要输入不同的密码
 txt_2_8_oop: 作业完成时打开输出路径
 txt_2_7_validatefn: 操作被停止，发现无效的文件名:
-txt_2_7_validatecl: 操作被停止，发现可能有危害的命令（比如此程序不允许的命令连接）:
+txt_2_7_validatecl: 操作被停止，发现可能有危害的命令（比如此程序不允许的命令连接）：
 txt_2_6_open: 打开压缩文档
-txt_2_5_ace_missing: UNACE插件缺失；要处理 ACE 压缩文档，您可以从 PeaZip 主页下载此插件（因为 UNACE 封闭源代码，插件未被包括在基本的软件包中）
+txt_2_5_ace_missing: UNACE 插件缺失；要处理 ACE 压缩文档，您可以从 PeaZip 主页下载此插件（因为 UNACE 封闭源代码，插件未被包括在基本的软件包中）
 txt_2_3_pw_errorchar_gwrap: 在当前系统下，此字符不能被 PeaLauncher 用在密码中，请修改密码或在终端模式中使用 PeaZip（工具 > 设置）
 txt_2_3_renameexisting: 自动重命名已有文件
 txt_2_3_renameextracted: 自动重命名已解压缩软件
@@ -958,7 +958,7 @@ txt_2_3_encryption: 加密
 txt_2_3_extinnew: 解压缩到新文件夹
 txt_2_3_keyfile: 密钥文件
 txt_2_3_kf_not_found_gwrap: 不能发现或读取密钥文件。请选择其他密钥文件。
-txt_2_3_moreoptions: 更多选项...
+txt_2_3_moreoptions: 更多选项 ...
 txt_2_3_nopaths: 没有路径
 txt_2_3_options: 选项
 txt_2_3_overexisting: 覆盖已有文件
@@ -978,11 +978,11 @@ txt_job8: 8: 错误: 没有足够到内存执行请求到操作
 txt_autoclose: 作业完成时关闭此窗口
 txt_crscale: 压缩比（越低越好）：
 txt_console: 控制台
-txt_benchscale: Core 2 Duo 6600 级别，或相当 MHz 速度。
+txt_benchscale: Core 2 Duo 6600 级别，或相当的 MHz 速度。
 txt_create: 创建
-txt_done: 完成:
+txt_done: 完成：
 txt_nocl: 空命令行
-txt_error: 错误:
+txt_error: 错误：
 txt_explore: 浏览
 txt_extto: 解压到
 txt_halt: 作业完成时关闭系统
@@ -990,18 +990,18 @@ txt_halted: 关闭：
 txt_hardware: 硬件
 txt_high: 高优先级
 txt_idle: 空闲优先级
-txt_input: 输入:
+txt_input: 输入：
 txt_jpaused: 作业暂停
 txt_jresumed: 作业继续
 txt_job_started: 作业开始
 txt_jobstatus: 作业状态:
 txt_jstopped: 作业被用户停止
-txt_jobstopped: 作业被用户停止；您可以点击"浏览"来检查作业的部分成果或读取作业记录
+txt_jobstopped: 作业被用户停止；您可以点击“浏览”来检查作业的部分成果或读取作业记录。
 txt_job_success: 作业成功完成
 txt_lt: 列表/测试/修复 压缩文档
 txt_normal: 正常优先级
 txt_ok: 确定
-txt_output: 输出:
+txt_output: 输出：
 txt_pause: 暂停
 txt_paused: 暂停，
 txt_p_high: 优先级设置为高
@@ -1016,15 +1016,15 @@ txt_priority: 右键设置作业优先级
 txt_running: 运行，
 txt_isrunning: 运行...
 txt_saveas: 另存为
-txt_savejob: 保存作业定义（可以包括密码!）
+txt_savejob: 保存作业定义（可能包括密码！）
 txt_savelog: 保存作业记录
 txt_software: 软件
-txt_speedscale: 速度，对数标度（越高越好）:
+txt_speedscale: 速度，对数标度（越高越好）：
 txt_status: 状态
 txt_stop: 停止
 txt_bench: 系统基准测试
-txt_threads: 线程:
-txt_time: 时间:
+txt_threads: 线程：
+txt_time: 时间：
 
 === end PeaLauncher text group ===
 
