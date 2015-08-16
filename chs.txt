@@ -916,13 +916,13 @@ txt_zipcrypto_hint: ZipCrypto（已过时）
 
 === PeaLauncher text group ===
 
-txt_5_6_update: Check for updates
-txt_5_6_cml: System context menu language
-txt_5_6_donations: Donations
-txt_5_6_localization: Localization
-txt_5_6_runasadmin: Run as administrator
-txt_5_6_help: Support
-txt_5_5_cancelall: Cancel all
+txt_5_6_update: 检查更新
+txt_5_6_cml: 系统右键菜单语言
+txt_5_6_donations: 捐赠
+txt_5_6_localization: 本地化
+txt_5_6_runasadmin: 以管理员身份运行
+txt_5_6_help: 支持
+txt_5_5_cancelall: 全部取消
 txt_5_3_details: 详细信息
 txt_5_3_files: 文件
 txt_5_3_folders: 文件夹
