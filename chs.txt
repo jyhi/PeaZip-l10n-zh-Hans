@@ -696,7 +696,7 @@ txt_morecontrols: 更多控制（历史记录、书签...）
 txt_morerecent: 比选定的对象更新
 txt_ent_hint: 在编辑区域移动鼠标、按任意键，从系统中载入文件以便收集熵...
 txt_moveto: 移动到...
-txt_mypc: 这台电脑
+txt_mypc: 计算机根目录
 txt_list_na: n/a
 txt_name: 名称
 txt_naming: 命名规则
