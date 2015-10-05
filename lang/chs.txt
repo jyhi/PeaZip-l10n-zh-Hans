@@ -3,7 +3,7 @@ Chinese - 简体中文
 5.8
 翻译: Aerowolf, Junde Yi
 Last rev. by: Junde Yi
-Last rev.: 20150816
+Last rev.: 20151005
 
 === PeaZip text group ===
 
