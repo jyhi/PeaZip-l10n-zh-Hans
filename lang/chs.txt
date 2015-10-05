@@ -479,9 +479,9 @@ txt_ren_existing: 自动重命名已有的文件
 txt_ren_extracted: 自动重命名解压的文件
 txt_autofolder: 自动创建新文件夹用于解压文档？
 txt_back: 后退
-txt_backend: 后台二进制用户界面
+txt_backend: 后台二进制程序用户界面
 txt_backupexe: 备份可执行文件（推荐）
-txt_bettercompression: 更高的压缩
+txt_bettercompression: 更好的压缩
 txt_blogs: 博客
 txt_blowfish: Blowfish448（64 位块）
 txt_bookmarks: 书签
@@ -490,15 +490,15 @@ txt_browser: 浏览器[&B]
 txt_aborted_error: 浏览压缩文档耗时太久，已停止。你可以使用搜索（F3）或退出平坦视图（F6）来更精确地选择；解压/列表/测试操作不受此操作影响。
 txt_list_browsing: 浏览：
 txt_archive_root: 浏览：压缩文档根目录
-txt_type_description_bzip2: BZip2: 十分强大的压缩算法，速度一般
+txt_type_description_bzip2: BZip2：十分强大的压缩算法，速度一般
 txt_pw_empty: 请提供密码（或密钥文件）
 txt_add_error: 不能添加/更新或删除对象；可能仅支持对此类压缩文档的浏览 / 解压，或不支持特定的操作（比如多卷或固实压缩），或 PeaZip 不能处理压缩文档名称
 txt_un7z_browse_failure: 不能浏览压缩文档
 txt_list_error: 不能列出压缩文档内容，请检查压缩文档是否有密码保护或者已经损坏。
 txt_conf_cannotsave: 不能保存配置文件，请检查路径是否允许写入并且有剩余空间
 txt_check_hint: 检测非故意导致的数据损坏；Hash 算法也适用于检测恶意数据篡改（参见文档）
-txt_check: 校验和 / Hash 文件
-txt_check_select: 校验和 / Hash
+txt_check: 校验码 / 散列值（Hash）文件
+txt_check_select: 校验码 / 散列值（Hash）
 txt_clear: 清除
 txt_clearlayout: 清除视图
 txt_pj_hint: 点此导入作业，重置修改，并从用户界面载入定义的日期
@@ -880,22 +880,22 @@ txt_theme: 主题
 txt_icons_found: 主题载入成功。
 txt_themename: 主题名称
 txt_icons_not_found: 主题未正确载入。请尝试切换到默认的或者别的主题。
-txt_theme_create_success: 主题成功创建在
+txt_theme_create_success: 主题成功创建于
 txt_theming: 主题
 txt_extand_error: 此功能一次仅能操作一个对象
 txt_threads: 线程
 txt_titlescolor: 标题颜色
 txt_to: 到
-txt_toggle_browseflat: 切换浏览/平坦视图（全部显示）
-txt_toggle_historybookmarks: 切换历史记录/书签
+txt_toggle_browseflat: 切换浏览 / 平坦视图（全部显示）
+txt_toggle_historybookmarks: 切换历史记录 / 书签
 txt_toolbarscolor: 工具栏颜色
 txt_tools: 工具[&T]
 txt_best: 尝试最佳设置（慢）
 txt_type: 类型
 txt_level_ultra: 超强
 txt_error_openfile: 无法打开指定的文件
-txt_cl_hint: UNACE 和 UPX问题运行在控制台模式，列表、测试和基准测试作业总是运行在图形界面模式
-txt_ace_missing: UNACE 插件缺失；要处理 ACE 压缩文档，您可以从PeaZip主页下载此插件（因为UNACE封闭源代码，插件未被包括在基本安装包中）
+txt_cl_hint: UNACE 和 UPX 总是运行在控制台模式，列表、测试和基准测试作业总是运行在图形界面模式
+txt_ace_missing: UNACE 插件缺失；要处理 ACE 压缩文档，您可以从 PeaZip 主页下载此插件（因为 UNACE 封闭源代码，插件未被包括在基本安装包中）
 txt_units: 设备
 txt_unit_unknown: 未知的驱动器类型
 txt_un7z_pw_untested: 未测试
@@ -906,7 +906,7 @@ txt_advfilters: 使用高级过滤器
 txt_openfiles_hint: 使用此选项可以将其它程序正在使用的文件强制包含在压缩文档中（在备份时很有用）
 txt_usenet: Usenet
 txt_user_name: 用户名; 如有必要，可以使用 用户名@域 或 域\用户名 格式。
-txt_using: 使用:
+txt_using: 使用：
 txt_volumepea: 卷控制
 txt_volume_size: 卷大小
 txt_type_ext_uns: 被成功解压
@@ -915,7 +915,7 @@ txt_websites: 网站
 txt_word: 字
 txt_write: 生成：
 txt_ramdompw_hint: 您可以从此处复制随机生成的密码
-txt_exe_hint: 对于自定义压缩，您可以自由输入可执行程序的名称和参数，并选择语法结构。您也可以在"控制台"标签中手动修改命令的语法。
+txt_exe_hint: 对于自定义压缩，您可以自由输入可执行程序的名称和参数，并选择语法结构。请注意，您也可以在“控制台”标签中手动修改命令的语法。
 txt_pj_hint2: 在下面的备注区域，您可以从图形界面前端导入作业的定义。之后，您可以编辑、启动或保存它，且不会修改或删除作业定义。
 txt_type_description_zip: ZIP：快速打包 / 压缩格式， Windows 系统主流格式
 txt_zipcrypto_hint: ZipCrypto（已过时）
