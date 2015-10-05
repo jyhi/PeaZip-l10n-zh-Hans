@@ -1,12 +1,20 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-5.7
+5.8
 翻译: Aerowolf, Junde Yi
 Last rev. by: Junde Yi
 Last rev.: 20150816
 
 === PeaZip text group ===
 
+txt_5_8_l0: Allow any supported component/format
+txt_5_8_l1: Allow only Free Software components
+txt_5_8_l2: Allow only open archive formats
+txt_5_8_ascii: ASCII safe, scripts are safe on legacy environments
+txt_5_8_cp: Code Page safe, scripts may trigger problems on legacy environments with different Code Pages
+txt_5_8_fs: Free Software compliance
+txt_5_8_utf: Scripts need full UTF-8 / Unicode environment
+txt_5_8_fsr: This format is not suported due Free Software compliance restrictions (Options > Advanced)
 txt_5_7_pinstalled: 已安装
 txt_5_7_pmissing: 丢失
 txt_5_7_plugin: 插件丢失，可以在帮助 > 获取插件处安装
