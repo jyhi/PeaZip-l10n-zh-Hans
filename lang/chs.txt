@@ -1,9 +1,9 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
 5.8
-翻译: Aerowolf, Junde Yi <lmy441900@gmail.com>
-Last rev. by: Junde Yi <lmy441900@gmail.com>
-Last rev.: 20151005
+翻译: Aerowolf, Junde Yi
+Last rev. by: Junde Yi
+Last rev.: 20150816
 
 === PeaZip text group ===
 
