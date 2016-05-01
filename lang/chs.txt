@@ -1,12 +1,16 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-5.8
-翻译: Aerowolf, Junde Yi
-Last rev. by: Junde Yi
-Last rev.: 20151005
+6.0
+翻译: Aerowolf, Junde Yhi
+Last rev. by: Junde Yhi
+Last rev.: 20160501
 
 === PeaZip text group ===
 
+txt_6_0_msq: 对固实压缩文件按文件类型排序
+txt_5_9_lff: 分析文件和文件夹
+txt_5_9_pff: 分析并显示文件头 / 文件尾
+txt_5_9_start: 开始于
 txt_5_8_l0: 允许任何支持的组件 / 格式
 txt_5_8_l1: 只允许自由软件组件
 txt_5_8_l2: 只允许开放压缩文档格式
@@ -76,7 +80,7 @@ txt_5_3_profileadvanced: 高压缩率，7z 格式
 txt_5_3_profilenormal: 普通的 zip 压缩，能够兼容大多数解压缩软件
 txt_5_3_profileveryfast: 快速的 zip 压缩，适合较大的多媒体文件
 txt_5_3_profilepassword: 用密码保护，7z 格式
-txt_5_3_profile10mb: 小于 10MB 的输出，以适应电子邮件附件限制
+txt_5_3_profile10mb: 小于 25MB 的输出，以适应电子邮件附件限制
 txt_5_3_profilesfx: 自解压格式，这样他人就不需要解压缩软件来解压它
 txt_5_3_cml: 系统右键菜单语言
 txt_5_3_cmlmessage: 双击需要的右键菜单语言文件并将它们合并到注册表内。不过，这个选项将在程序被安装 / 升级或“系统集成”向导被使用以后需要重新应用。
