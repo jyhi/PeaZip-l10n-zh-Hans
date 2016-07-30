@@ -1,12 +1,13 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.0
+6.1
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20160501
+Last rev.: 20160730
 
 === PeaZip text group ===
 
+txt_6_1_ec: 展开 / 折叠压缩文件树
 txt_6_0_msq: 对固实压缩文件按文件类型排序
 txt_5_9_lff: 分析文件和文件夹
 txt_5_9_pff: 分析并显示文件头 / 文件尾
