@@ -589,7 +589,7 @@ txt_explore_outpath: 浏览输出路径
 txt_explore_path: 浏览路径
 txt_ext: 扩展名:
 txt_caption_extract: 解压
-txt_ext_nopath: 解压（不包含路径啊）
+txt_ext_nopath: 解压（不包含路径）
 txt_ext_all: 全部解压
 txt_ext_allhere: 全部解压到此处
 txt_ext_allto: 全部解压到
