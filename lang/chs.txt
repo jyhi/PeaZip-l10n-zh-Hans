@@ -41,8 +41,8 @@ txt_5_5_plugin: 获取插件
 txt_5_5_copypath: 复制路径
 txt_5_5_delete: 在指定的位置删除字符
 txt_5_5_halt: 任务完成后关闭计算机
-txt_5_5_positionw: 提示：1 添加到第一个字符前，2 第二个，依此类推… "z" 为文件名的末尾
-txt_5_5_positionwd: 提示：1 从第一个包含的字符开始删除，2 第二个，… "z" 为文件名的末尾
+txt_5_5_positionw: 提示：1 添加到第一个字符前，2 第二个，依此类推…“z”为文件名的末尾
+txt_5_5_positionwd: 提示：1 从第一个包含的字符开始删除，2 第二个，…“z”为文件名的末尾
 txt_5_5_replaceneww: 提示：新放个空字串来简单地移除旧字串
 txt_5_5_lower: 小写字母
 txt_5_5_replaceoldw: 在文件名中修改所有匹配的字串或字符
@@ -50,7 +50,7 @@ txt_5_5_newext: 新文件名
 txt_5_5_new: 新字串
 txt_5_5_n: 要删掉的字符数
 txt_5_5_old: 旧字串
-txt_5_5_position: 位置（用数字表示，或用 "z" 来表示结尾）
+txt_5_5_position: 位置（用数字表示，或用“z”来表示结尾）
 txt_5_5_intdir: 在“解压到新文件夹”操作中移除单个的中间目录
 txt_5_5_replacestr: 替换 / 移除字串
 txt_5_5_datesameday: 和选中项目同一天的
@@ -123,7 +123,7 @@ txt_5_1_onstart: 在启动时
 txt_5_1_once: 一次
 txt_5_1_w7: 星期六
 txt_5_1_schedule: 调度
-txt_5_1_schedexplain: 从图形界面的任务定义创建一个纯文本格式的脚本并调度它。被计划的任务脚本保存在 "Scheduled scripts" 文件夹。要编辑或删除这些文件，你可以使用系统的任务计划程序，因为所有由 PeaZip 调度的任务都已经被收集在任务计划程序库中的 "PeaZip" 分支中了。
+txt_5_1_schedexplain: 从图形界面的任务定义创建一个纯文本格式的脚本并调度它。被计划的任务脚本保存在“Scheduled scripts”文件夹。要编辑或删除这些文件，你可以使用系统的任务计划程序，因为所有由 PeaZip 调度的任务都已经被收集在任务计划程序库中的“PeaZip”分支中了。
 txt_5_1_schedok: 成功创建调度方案
 txt_5_1_schedscripts: 保存调度脚本
 txt_5_1_startdate: 起始日期
@@ -411,7 +411,7 @@ txt_exclude_recourse: “排除”递归子目录
 txt_action_extopen: “使用关联的程序解压并打开”动作
 txt_error_passwordnotmatch: 两次输入的密码不相同，请修改
 txt_action_preview: “使用关联的程序预览”动作
-txt_preview_hint: “预览”动作与"解压并打开"执行的任务相同，但是会在输出目录中创建一个临时路径，并在关闭压缩文档后自动删除它。
+txt_preview_hint: “预览”动作与“解压并打开”执行的任务相同，但是会在输出目录中创建一个临时路径，并在关闭压缩文档后自动删除它。
 txt_better: （较好）
 txt_default2: （默认）
 txt_faster: （较快）
@@ -463,9 +463,9 @@ txt_all_attributes: 相同属性的所有对象
 txt_all_size: 相同大小的所有对象…
 txt_error_input_upx: 允许单个的可执行文件作为输入
 txt_always_pw: 总是询问密码
-txt_ignore_ext: 对"解压并…"，总是忽略路径
-txt_ignore_disp: 对"解压显示的…"，总是忽略路径
-txt_ignore_sel: 对"解压选定的…"，总是忽略路径
+txt_ignore_ext: 对“解压并…”，总是忽略路径
+txt_ignore_disp: 对“解压显示的…”，总是忽略路径
+txt_ignore_sel: 对“解压选定的…”，总是忽略路径
 txt_key_hint: 将密钥文件的 Hash 值添加到密码；PeaZip 和其他遵循相同标准的程序都可以解密压缩文档，或者将Hash值作为密码的一部分来输入
 txt_timestamp: 附加时间戳到压缩文档名
 txt_appoptions: 程序选项
@@ -1140,10 +1140,10 @@ F12	全部解压到…
 
 中压缩文档视图中您也可以:
 - 双击一个对象来打开它
-- 选择一个文件并按 "\" 键，或“文件工具 > 分割文件”来分割它
-- 选择一个文件并按 "<" 键，或“文件工具 > 比较文件”来逐字节地将其与其他文件进行比较
-- 选择多个对象并按 "?" 键，或“文件工具 > 校验/hash 文件”来校验/hash 文件
-- 选择多个对象并按 "*" 键，或“安全删除”来安全删除文件
+- 选择一个文件并按“\”键，或“文件工具 > 分割文件”来分割它
+- 选择一个文件并按“<”键，或“文件工具 > 比较文件”来逐字节地将其与其他文件进行比较
+- 选择多个对象并按“?”键，或“文件工具 > 校验/hash 文件”来校验/hash 文件
+- 选择多个对象并按“*”键，或“安全删除”来安全删除文件
 
 
 打开压缩文档
