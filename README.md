@@ -16,4 +16,4 @@ PeaZip 简体中文翻译
 
 # License
 
-This translation, as is denoted in PeaZip, is released under GNU Free Document License (GFDL). See [LICENSE][LICENSE] file for detail.
+This translation, as is denoted in PeaZip, is released under GNU Free Document License (GFDL). See [LICENSE](LICENSE) file for detail.
