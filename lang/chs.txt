@@ -1,12 +1,16 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.2
+6.3
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20161223
+Last rev.: 20170102
 
 === PeaZip text group ===
 
+txt_6_3_autoadjust: 自动调节列宽
+txt_6_3_cinfo: 信息及备注
+txt_6_3_syn: 同步压缩文件到磁盘上
+txt_6_3_uar: 仅更新已存在于压缩文件中的文件
 txt_6_2_encext: 在加密的文件名后添加“.enc”后缀
 txt_6_2_archive: 压缩文件类型
 txt_6_2_container: 容器文件类型
