@@ -267,11 +267,11 @@ txt_3_3_multi: 多选
 txt_3_3_runexp: 打开程序、文件、文件夹或网站
 txt_3_3_apppath: 打开 PeaZip 的文件夹
 txt_3_3_run: 运行
-txt_3_2_7zutf8nonascii: 7z/p7zip -mcu 对 .zip 压缩文档内，文件名中含有非 ASCII 字符的文件，使用 UTF8 编码
+txt_3_2_7zutf8nonascii: 7z / p7zip -mcu 对 .zip 压缩文档内，文件名中含有非 ASCII 字符的文件，使用 UTF-8 编码
 txt_3_2_alltasks: 所有任务
 txt_3_2_conf: 配置
 txt_3_2_donations: 给慈善机构捐赠
-txt_3_1_sccenc: 7z/p7zip -scc 字符编码
+txt_3_1_sccenc: 7z / p7zip -scc 字符编码
 txt_3_1_downloads: 下载
 txt_3_1_lib: 库
 txt_3_1_more: 更多
@@ -378,7 +378,7 @@ txt_2_5_cannotrun: 无法运行
 txt_2_5_custeditors: 自定义编辑器、播放器、杀毒软件等等（忽略系统的文件关联设置）
 txt_2_5_delete: 删除
 txt_2_5_delete_fromarchive: 从压缩文档中删除
-txt_2_5_langflag: 以 UTF8 编码显示压缩档案名称；不选则用“?”替换扩展字符
+txt_2_5_langflag: 以 UTF-8 编码显示压缩档案名称；不选则用“?”替换扩展字符
 txt_2_5_encpj: 将作业保存为 UTF-8 格式
 txt_2_5_execommand: 可执行文件或命令
 txt_2_5_help: 帮助[&H]
@@ -438,7 +438,7 @@ txt_stream: （由“流控制”设定）
 txt_slowermem: （较慢，占用内存较多）
 txt_store: （仅存储，最快）
 txt_newfolder: （在新文件夹中）
-txt_7z_exitcodeunknown: : 作业出现未知错误
+txt_7z_exitcodeunknown: ：作业出现未知错误
 txt_list_isfolder: [文件夹]
 txt_none: <无>
 txt_fd: 1.44 MB 软盘
