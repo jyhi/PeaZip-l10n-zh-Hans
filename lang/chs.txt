@@ -1,12 +1,25 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.3
+6.4
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20170102
+Last rev.: 20170327
 
 === PeaZip text group ===
 
+txt_6_4_absolute: 绝对路径
+txt_6_4_appdirn: 在后面加上目录名
+txt_6_4_closeallother: 关闭其它所有标签页
+txt_6_4_closeright: 关闭右边的标签页
+txt_6_4_collapse: 折叠标签页
+txt_6_4_expand: 展开标签页
+txt_6_4_full: 完整路径
+txt_6_4_new: 新建
+txt_6_4_openintab: 在新标签页中打开
+txt_6_4_paths: 路径
+txt_6_4_prepdirn: 在前面加上目录名
+txt_6_4_relative: 相对路径
+txt_6_4_tabbar: 标签栏
 txt_6_3_autoadjust: 自动调节列宽
 txt_6_3_cinfo: 信息及备注
 txt_6_3_syn: 同步压缩文件到磁盘上
