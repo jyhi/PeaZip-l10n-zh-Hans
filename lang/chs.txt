@@ -1,12 +1,29 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.4
+6.5
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20170327
+Last rev.: 20180215
 
 === PeaZip text group ===
 
+txt_6_5_mandatory: （强制）
+txt_6_5_abort: 异常中止
+txt_6_5_askp: 在启动时请求密码设定
+txt_6_5_chp: 更换密码
+txt_6_5_def: 定义
+txt_6_5_nop: 不要在启动时请求密码设定
+txt_6_5_error: 错误
+txt_6_5_seqerr: 侦测到错误，源文件不会被删除
+txt_6_5_sni: 包含 NT 安全信息
+txt_6_5_sns: 包含 NTFS 交换数据流（Alternate Data Stream）
+txt_6_5_privacy: 隐私
+txt_6_5_showvolatile: 显示哪些选项会根据上下文而改变
+txt_6_5_force: 尝试打开有错误的压缩文件
+txt_6_5_warning: 警告
+txt_6_5_yes: 是
+txt_6_5_yesall: 全部选是
+txt_6_5_np: 你现在可以把转换过的压缩文件密码改成新的，或者留空密码以跳过加密
 txt_6_4_absolute: 绝对路径
 txt_6_4_appdirn: 在后面加上目录名
 txt_6_4_closeallother: 关闭其它所有标签页
@@ -782,7 +799,7 @@ txt_pio: 参数、输入、输出
 txt_poi: 参数、输出、输入
 txt_parameters: 参数:
 txt_error_partial: 有些压缩文档未能解压
-txt_passes: 通过
+txt_passes: 次数
 txt_pw: 密码
 txt_pwlength: 密码长度（4 至 64 个字母）
 txt_un7z_browse_pw: 需要密码
@@ -949,6 +966,12 @@ txt_zipcrypto_hint: ZipCrypto（已过时）
 
 === PeaLauncher text group ===
 
+txt_6_5_abort: 异常中止
+txt_6_5_error: 错误
+txt_6_5_no: 否
+txt_6_5_warning: 警告
+txt_6_5_yes: 是
+txt_6_5_yesall: 全部选是
 txt_5_6_update: 检查更新
 txt_5_6_cml: 系统右键菜单语言
 txt_5_6_donations: 捐赠
