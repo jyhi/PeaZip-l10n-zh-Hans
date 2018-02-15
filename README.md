@@ -12,7 +12,7 @@ PeaZip 简体中文翻译
 # Attention
 
 1. `chs.txt` should be encoded as UTF-8 w/ BOM.
-2. `chs.reg` should be encoded as ANSI, or it will become messy codes.
+2. `chs.reg` should be encoded as UTF-16 LE w/ BOM.
 
 # License
 
