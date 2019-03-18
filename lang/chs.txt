@@ -1,12 +1,13 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.6
+6.7
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20180507
+Last rev.: 20190318
 
 === PeaZip text group ===
 
+txt_6_7_nop: （无预览）
 txt_6_6_pdupfound: 找到了可能是重复的文件（快速估算）
 txt_6_6_rsh: 重设查找历史
 txt_6_6_pdupfind: 寻找可能的重复文件
