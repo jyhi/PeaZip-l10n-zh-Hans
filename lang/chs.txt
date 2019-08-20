@@ -919,7 +919,7 @@ txt_sysbenchmark: 系统基准程序
 txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续吗？
 txt_systools: 系统工具
 txt_tarbefore: 先用 TAR 打包
-txt_type_description_tar: TAR：UNIX 系统上的主流覆盖具有相同名称的文件吗？
+txt_type_description_tar: TAR：UNIX 系统上的主流归档文件格式
 txt_taskman: 任务管理器
 txt_caption_test: 测试
 txt_testall: 全部测试
