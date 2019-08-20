@@ -977,7 +977,7 @@ txt_zipcrypto_hint: ZipCrypto（已过时）
 
 === PeaLauncher text group ===
 
-txt_6_9_remaining: remaining
+txt_6_9_remaining: 剩余
 txt_6_5_abort: 异常中止
 txt_6_5_error: 错误
 txt_6_5_no: 否
