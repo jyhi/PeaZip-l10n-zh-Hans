@@ -1,12 +1,18 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.7
+6.9
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
 Last rev.: 20190318
 
 === PeaZip text group ===
 
+txt_6_9_autou: 自动更新压缩文件内修改过的文件
+txt_6_9_forceu: 强制更新压缩文件内修改过的文件
+txt_6_9_opuns: 不支持对当前类型的压缩文件执行此操作
+txt_6_9_overarch: 要覆盖压缩文件内具有相同名称的文件吗？
+txt_6_9_uconf: 预览的文件已被修改。更新目前的压缩文件吗？
+txt_6_8_ndrop: 使用 Windows 原生拖放功能
 txt_6_7_nop: （无预览）
 txt_6_6_pdupfound: 找到了可能是重复的文件（快速估算）
 txt_6_6_rsh: 重设查找历史
@@ -913,7 +919,7 @@ txt_sysbenchmark: 系统基准程序
 txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续吗？
 txt_systools: 系统工具
 txt_tarbefore: 先用 TAR 打包
-txt_type_description_tar: TAR：UNIX 系统上的主流归档文件格式
+txt_type_description_tar: TAR：UNIX 系统上的主流覆盖具有相同名称的文件吗？
 txt_taskman: 任务管理器
 txt_caption_test: 测试
 txt_testall: 全部测试
@@ -971,6 +977,7 @@ txt_zipcrypto_hint: ZipCrypto（已过时）
 
 === PeaLauncher text group ===
 
+txt_6_9_remaining: remaining
 txt_6_5_abort: 异常中止
 txt_6_5_error: 错误
 txt_6_5_no: 否
@@ -1125,8 +1132,8 @@ txt_time: 时间：
 在 PeaZip 中打开压缩文档（比如双击，或者拖拽压缩文档到 PeaZip 窗口或图标上），然后拖拽文件或文件夹到压缩文档中即可（或者点击“添加”按钮，使用弹出的对话框添加对象到压缩文档）。
 这将打开压缩文档创建对话框，点击确定即可完成添加。
 
-创建分卷压缩——把一个压缩文档分割成多个小压缩包
-在压缩文档创建步骤中，点击对话框中“单个卷”旁边的下拉菜单，可以选择输出文件（卷）的大小，压缩文档将被分割成那样大小的压缩包。
+创建分卷压缩——把一个压缩文档分割成多个小压缩文件
+在压缩文档创建步骤中，点击对话框中“单个卷”旁边的下拉菜单，可以选择输出文件（卷）的大小，压缩文档将被分割成那样大小的压缩文件。
 许多常见的压缩类型都支持此选项。
 
 创建加密压缩文档
