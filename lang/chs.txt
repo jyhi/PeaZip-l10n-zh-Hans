@@ -522,7 +522,7 @@ txt_archive: 压缩文档
 txt_un7z_browse_ok: 压缩文档浏览成功
 txt_interface: 压缩文档浏览器界面
 txt_archivecreation: 压缩文档创建
-txt_tarbefore_hint: 早于特定类型的TAR格式的压缩数据。
+txt_tarbefore_hint: 早于特定类型的 TAR 格式的压缩数据。
 txt_archive_hint: 打包、压缩、分割和保留私有文件、文件夹和卷
 txt_compressionratio_hint: 压缩文档的压缩率
 txt_archiving: 压缩:
