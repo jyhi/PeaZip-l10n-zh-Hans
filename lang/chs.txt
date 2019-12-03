@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-6.9
+7.0
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20190318
+Last rev.: 20191203
 
 === PeaZip text group ===
 
+txt_7_0_af: 分析文件夹内容
+txt_7_0_autoopentar: 自动打开 tar.* 文件内的单个 TAR 压缩文件
+txt_7_0_exttmppath: 内容将被解压到临时路径外：
 txt_6_9_autou: 自动更新压缩文件内修改过的文件
 txt_6_9_forceu: 强制更新压缩文件内修改过的文件
 txt_6_9_opuns: 不支持对当前类型的压缩文件执行此操作
@@ -1225,9 +1228,9 @@ PeaZip 拥有强大的多重过滤器，一次能够处理多个压缩文档，�
 其他功能: 分割 / 合并文件（文件范围）、安全擦除、比较、校验和计算文件散列、系统基准测试、生成随机密码和密钥文件。
 
 
-下载和查看修改记录，请访问: http://peazip.sourceforge.net/ | http://www.peazip.org/
-更多参见: http://peazip.sourceforge.net/peazip-free-archiver.html
-技术支持: http://www.peazip.org/peazip-help.html
-解决你的疑问: http://www.peazip.org/peazip-help-faq.html
+下载和查看修改记录，请访问: https://www.peazip.org/
+更多参见: https://www.peazip.org/peazip-free-archiver.html
+技术支持: https://www.peazip.org/peazip-help.html
+解决你的疑问: https://www.peazip.org/peazip-help-faq.html
 
 非常感谢帮助 PeaZip 项目成长和此程序中使用的开源软件（完整列表请访问网址）发展的所有人士，以及所有提供反馈、经验和建议的用户。
