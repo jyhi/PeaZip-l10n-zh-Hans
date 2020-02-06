@@ -1,12 +1,19 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-7.0
+7.1
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
 Last rev.: 20191203
 
 === PeaZip text group ===
 
+txt_7_1_type_description_brotli: Brotli：来自 Google 的快速压缩算法，具有非常快的解压速度
+txt_7_1_new: 全部解压到此处（在新文件夹中）
+txt_7_1_smart: 全部解压到此处（智能模式）
+txt_7_1_profileintermediate: 中等压缩率，ZIP / BZip2 快速压缩
+txt_7_1_renfilesonly: 仅对文件重命名
+txt_7_1_typetosearch: 打字以在当前路径搜索
+txt_7_1_type_description_zstd: Zstandard：来自 Facebook 的快速压缩算法，具有非常快的解压速度
 txt_7_0_af: 分析文件夹内容
 txt_7_0_autoopentar: 自动打开 tar.* 文件内的单个 TAR 压缩文件
 txt_7_0_exttmppath: 内容将被解压到临时路径外：
