@@ -459,7 +459,7 @@ txt_2_3_pw_errorchar: 在当前系统、PeaZip 图形界面中，引号不能用
 txt_2_3_envstr: 显示环境变量
 txt_2_3_never_pw: 不再询问密码
 txt_2_3_home: 用户目录
-txt_2_3_on_pw: 从系统菜单在解压 / 列表 / 测试操作上:
+txt_2_3_on_pw: 从系统菜单在解压 / 列表 / 测试操作上：
 txt_2_3_test_pw100: 测试加密小于 100MB 的压缩文档
 txt_2_3_test_pw: 测试加密（可能较慢）
 txt_exclude_recourse: “排除”递归子目录
@@ -532,7 +532,7 @@ txt_archivecreation: 压缩文档创建
 txt_tarbefore_hint: 早于特定类型的 TAR 格式的压缩数据。
 txt_archive_hint: 打包、压缩、分割和保留私有文件、文件夹和卷
 txt_compressionratio_hint: 压缩文档的压缩率
-txt_archiving: 压缩:
+txt_archiving: 压缩：
 txt_cl_long: 参数超越了 PeaZip 前端能够接受的最大尺寸，请少选一些（比如选择目录而不是单个文件）
 txt_overwrite_askbefore: 覆盖前询问（用于控制台模式）
 txt_associated: 关联的程序
@@ -566,7 +566,7 @@ txt_clear: 清除
 txt_clearlayout: 清除视图
 txt_pj_hint: 点此导入作业，重置修改，并从用户界面载入定义的日期
 txt_autoclose: 作业完成时关闭 PeaLauncher
-txt_cl: 命令行:
+txt_cl: 命令行：
 txt_compare: 比较文件
 txt_compress: 压缩
 txt_compress_executable: 压缩可执行文件
@@ -586,7 +586,7 @@ txt_create_archive: 创建压缩文档
 txt_title_create: 创建压缩文档，压缩、加密、分割…
 txt_create_keyfile: 创建密钥文件
 txt_create_folder: 创建文件夹
-txt_create_theme: 从当前设置创建新主题:
+txt_create_theme: 从当前设置创建新主题：
 txt_rr: 创建恢复记录
 txt_create_sfx: 创建自解压文档
 txt_cr_current: 当前路径或过滤器压缩率
@@ -605,7 +605,7 @@ txt_hard_reset_hint: 删除书签文件
 txt_desktop: 桌面
 txt_dictionary: 字典
 txt_dirs: 目录，
-txt_dis: 消除歧意:
+txt_dis: 消除歧意：
 txt_disk_cleanup: 磁盘清理
 txt_disk_defrag: 磁盘碎片整理
 txt_disk_management: 磁盘管理
@@ -642,7 +642,7 @@ txt_overwrite_qry: 在目标路径中已经存在；用源路径中相同名称�
 txt_confirm_overwrite: 已存在；是否覆盖？（按“否”跳过）
 txt_explore_outpath: 浏览输出路径
 txt_explore_path: 浏览路径
-txt_ext: 扩展名:
+txt_ext: 扩展名：
 txt_caption_extract: 解压
 txt_ext_nopath: 解压（不包含路径）
 txt_ext_all: 全部解压
@@ -674,7 +674,7 @@ txt_fs: 文件系统
 txt_filters_recourse: 过滤器递归子目录
 txt_filters: 过滤器
 txt_flat: 平坦模式（全部显示）
-txt_list_flat: 平坦视图:
+txt_list_flat: 平坦视图：
 txt_unit_floppy: 软驱
 txt_foldername: 文件夹名称
 txt_nfolders: 文件夹
@@ -728,7 +728,7 @@ txt_checkname_failed: 名称无效。
 txt_not_accessible_list: 不能访问，请检查提供的文件列表是否正确且已更新
 txt_theme_create_error: 不能创建主题，请为文件夹使用一个有效的名称作为主题名称，并选择一个可写的路径
 txt_theme_exists: jet 已经存在，请提供一个不同的路径
-txt_job_code: 作业代码:
+txt_job_code: 作业代码：
 txt_job_definition_saved: 作业定义成功保存在
 txt_job_success: 作业成功完成！
 txt_join: 加入
@@ -811,14 +811,14 @@ txt_other: 其它
 txt_otherparams: 其他参数（自由编辑）
 txt_oip: 输出、输入、参数
 txt_opi: 输出、参数、输入
-txt_output: 输出:
+txt_output: 输出：
 txt_overwrite: 覆盖已有文件
 txt_compressed_size: 打包
 txt_paqver: PAQ 版本
 txt_type_description_paq: PAQ：速度慢但极为强大的压缩工具
 txt_pio: 参数、输入、输出
 txt_poi: 参数、输出、输入
-txt_parameters: 参数:
+txt_parameters: 参数：
 txt_error_partial: 有些压缩文档未能解压
 txt_passes: 次数
 txt_pw: 密码
@@ -826,7 +826,7 @@ txt_pwlength: 密码长度（4 至 64 个字母）
 txt_un7z_browse_pw: 需要密码
 txt_un7z_browse_pw_other: 密码可能不正确
 txt_paste: 粘贴
-txt_path: 路径:
+txt_path: 路径：
 txt_pea_appcolor: Pea 程序颜色
 txt_pea_textcolor: Pea 文本颜色
 txt_type_description_pea: PEA：注重安全性的压缩文档格式，压缩速度快
@@ -839,12 +839,12 @@ txt_upxorstrip: 对二进制文件，请选择 Strip 和 / 或 UPX
 txt_not_removable_file: 请关闭正在使用的文件，以便 PeaZip 删除它：
 txt_not_removable: 请关闭正在使用的文件，以便 PeaZip 删除它所在的文件夹：
 txt_custom_executable_missing: 请提供自定义的可执行文件的名称
-txt_type_unsupported_select: 请选择支持的压缩类型:
+txt_type_unsupported_select: 请选择支持的压缩类型：
 txt_no_theme_name: 请指定主题名称
 txt_please_wait: 请稍候
 txt_copy_wait: 在执行其他预定的同类型操作之前，请等待当前的预定的文件复制 / 移动操作完成
 txt_previewwith: 用此预览…
-txt_projectadmin: 项目管理员:
+txt_projectadmin: 项目管理员：
 txt_type_description_quad: BALZ / QUAD: 高性能、基于 ROLZ 的文件压缩程序
 txt_quickdelete: 快速删除
 txt_quit: 退出[&X]
@@ -854,7 +854,7 @@ txt_recentarchives: 最近访问的文档
 txt_rr_hint: 恢复记录用于在数据损坏时尝试修复压缩文档
 txt_search_refine: 在结果中再过滤，支持 ? 和 * 通配符
 txt_fefreshf5: 刷新（F5）
-txt_release: 发布:
+txt_release: 发布：
 txt_unit_removable: 可移动设备
 txt_remove_bookmark: 清除书签
 txt_remove_external_unit: 卸载可移动设备
@@ -921,10 +921,10 @@ txt_status: 状态
 txt_level_store: 存储
 txt_stream_control: 流控制
 txt_strip: 在用 UPX 压缩前用 Strip 脱壳（推荐）
-txt_keyfile_created: 创建密钥文件成功:
+txt_keyfile_created: 创建密钥文件成功：
 txt_suggestpw: 创建随机密码
 txt_noupx: 符号被删除，UPX 压缩已略过
-txt_syntax: 语法:
+txt_syntax: 语法：
 txt_sysbenchmark: 系统基准程序
 txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续吗？
 txt_systools: 系统工具
@@ -1024,7 +1024,7 @@ txt_3_0_hints: 提示错误信息
 txt_3_0_arc: 某些输入文件无法被读取（可能被锁定，无法访问或被损坏）
 txt_3_0_ext: 当前操作需要输入不同的密码
 txt_2_8_oop: 作业完成时打开输出路径
-txt_2_7_validatefn: 操作被停止，发现无效的文件名:
+txt_2_7_validatefn: 操作被停止，发现无效的文件名：
 txt_2_7_validatecl: 操作被停止，发现可能有危害的命令（比如此程序不允许的命令连接）：
 txt_2_6_open: 打开压缩文档
 txt_2_5_ace_missing: UNACE 插件缺失；要处理 ACE 压缩文档，您可以从 PeaZip 主页下载此插件（因为 UNACE 封闭源代码，插件未被包括在基本的软件包中）
@@ -1072,7 +1072,7 @@ txt_input: 输入：
 txt_jpaused: 作业暂停
 txt_jresumed: 作业继续
 txt_job_started: 作业开始
-txt_jobstatus: 作业状态:
+txt_jobstatus: 作业状态：
 txt_jstopped: 作业被用户停止
 txt_jobstopped: 作业被用户停止；您可以点击“浏览”来检查作业的部分成果或读取作业记录。
 txt_job_success: 作业成功完成
@@ -1086,7 +1086,7 @@ txt_p_high: 优先级设置为高
 txt_p_idle: 优先级设置为空闲
 txt_p_normal: 优先级设置为正常
 txt_p_realtime: 优先级设置为实时
-txt_rating: 级别:
+txt_rating: 级别：
 txt_rt: 实时优先级
 txt_report: 报告
 txt_resume: 继续
@@ -1192,7 +1192,7 @@ F12	全部解压到…
 1） 使用拖拽或从程序按钮和菜单，将项目从系统右键菜单添加到压缩文档视图并发送到菜单；
 2） 点击“创建”按钮可开始压缩文档创建。
 
-使用:
+使用：
 - “选项”标签可自定义压缩文档格式并压缩和加密相关的参数；
 - “I/O”标签用于设置输入 / 输出选项；
 - “过滤器”标签用于设置使用高级排除过滤器，如果可以选择压缩文档格式；
@@ -1200,7 +1200,7 @@ F12	全部解压到…
 
 或者，在单个过程中，您可以从系统右键菜单中添加每个输入项目到单独的压缩文档中，并且从发送到菜单您可以添加多个项目到一个压缩文档中。
 
-中压缩文档视图中您也可以:
+中压缩文档视图中您也可以：
 - 双击一个对象来打开它
 - 选择一个文件并按“\”键，或“文件工具 > 分割文件”来分割它
 - 选择一个文件并按“<”键，或“文件工具 > 比较文件”来逐字节地将其与其他文件进行比较
