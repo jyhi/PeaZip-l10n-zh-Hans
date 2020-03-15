@@ -183,7 +183,7 @@ the conditions of sections 2 and 3 above, provided that you release
 the Modified Version under precisely this License, with the Modified
 Version filling the role of the Document, thus licensing distribution
 and modification of the Modified Version to whoever possesses a copy
-of it.  In addition, you must do these things in the Modified Version：
+of it.  In addition, you must do these things in the Modified Version:
 
 A. Use in the Title Page (and on the covers, if any) a title distinct
    from that of the Document, and from those of previous versions
@@ -425,7 +425,7 @@ ADDENDUM: How to use this License for your documents
 
 To use this License in a document you have written, include a copy of
 the License in the document and put the following copyright and
-license notices just after the title page：
+license notices just after the title page:
 
     Copyright (c)  YEAR  YOUR NAME.
     Permission is granted to copy, distribute and/or modify this document
@@ -436,7 +436,7 @@ license notices just after the title page：
     Free Documentation License".
 
 If you have Invariant Sections, Front-Cover Texts and Back-Cover Texts,
-replace the "with...Texts." line with this：
+replace the "with...Texts." line with this:
 
     with the Invariant Sections being LIST THEIR TITLES, with the
     Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST.
