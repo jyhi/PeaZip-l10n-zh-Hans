@@ -3,7 +3,7 @@ Chinese - 简体中文
 7.1
 翻译: Aerowolf, Junde Yhi, Dingzhong Chen
 Last rev. by: Dingzhong Chen
-Last rev.: 20200228
+Last rev.: 20200330
 
 === PeaZip text group ===
 
@@ -542,7 +542,7 @@ txt_ren_existing: 自动重命名已有的文件
 txt_ren_extracted: 自动重命名解压的文件
 txt_autofolder: 自动创建新文件夹用于解压文档？
 txt_back: 后退
-txt_backend: 后台二进制程序用户界面
+txt_backend: 后端程序用户界面
 txt_backupexe: 备份可执行文件（推荐）
 txt_bettercompression: 更好的压缩
 txt_blogs: 博客
@@ -1019,7 +1019,7 @@ txt_4_0_dragorselect: 拖拽到此处或选择文件
 txt_4_0_select: 选择文件
 txt_3_6_selectdir: 选择目录
 txt_3_5_close: 关闭
-txt_3_0_details: 有关更多详细信息，“报告”页面有任务日志，“控制台”页面则有命令行形式的任务定义。
+txt_3_0_details: 更多详细信息，请参阅“报告”页面中的任务日志，和“控制台”页面中命令行形式的任务定义。
 txt_3_0_hints: 提示错误信息
 txt_3_0_arc: 某些输入文件无法被读取（可能被锁定、无法访问或已损坏）
 txt_3_0_ext: 此归档文件可能需要另一串密码来执行当前操作
@@ -1027,8 +1027,8 @@ txt_2_8_oop: 任务完成时打开输出路径
 txt_2_7_validatefn: 操作停止，发现无效的文件名：
 txt_2_7_validatecl: 操作停止，检测到可能有危害的命令（比如此程序不允许的命令连接）：
 txt_2_6_open: 打开归档文件
-txt_2_5_ace_missing: UNACE 插件缺失；要处理 ACE 归档文件，您可以从 PeaZip 的网站上下载此插件（由于 UNACE 封闭源代码，此插件不包含在基本软件包中）
-txt_2_3_pw_errorchar_gwrap: 在当前系统下 PeaLauncher 无法在密码中使用引号，请修改密码或使用后端程序的用户界面，在选项 > 设置中选择控制台模式
+txt_2_5_ace_missing: 缺失 UNACE 插件；要处理 ACE 归档文件，您可以从 PeaZip 的网站上下载此插件（由于 UNACE 封闭源代码，此插件不包含在基本软件包中）
+txt_2_3_pw_errorchar_gwrap: 在当前系统下 PeaLauncher 无法在密码中使用引号，请修改密码或者在选项 > 设置中的后端程序用户界面里选择控制台模式
 txt_2_3_renameexisting: 自动重命名已有文件
 txt_2_3_renameextracted: 自动重命名已解压文件
 txt_2_3_cancel: 取消
@@ -1046,7 +1046,7 @@ txt_job_unknown: : 遇到未知错误
 txt_stdjob: 【动画将在任务完成时停止】
 txt_benchmarkjob: 【基准测试需要几分钟，期间系统响应将变慢】
 txt_defragjob: 【碎片整理期间将无法响应，您可以让它在后台运行】
-txt_consolejob: 【作业的反馈和详细进度可在控制台窗口查看】
+txt_consolejob: 【任务反馈和详细进度可在控制台窗口查看】
 txt_job1: 1：警告：发生非致命错误，例如某些文件缺失或被锁定
 txt_job127: 127：无法执行请求的操作
 txt_job2: 2：发生致命错误
@@ -1090,14 +1090,14 @@ txt_rating: 级别：
 txt_rt: 实时优先级
 txt_report: 报告
 txt_resume: 继续
-txt_priority: 点击设置作业优先级
+txt_priority: 点击设置任务优先级
 txt_running: 正在运行，
 txt_isrunning: 正在运行…
 txt_saveas: 另存为
 txt_savejob: 保存任务定义
 txt_savelog: 保存任务日志
 txt_software: 软件
-txt_speedscale: 速度，对数刻度（越高越好）：
+txt_speedscale: 速度，对数刻度（越高越快）：
 txt_status: 状态
 txt_stop: 停止
 txt_bench: 系统基准测试
