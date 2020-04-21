@@ -1,12 +1,24 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-7.1
-翻译: Aerowolf, Junde Yhi, Dingzhong Chen
+7.2
+Translated by: Aerowolf, Junde Yhi, Dingzhong Chen
 Last rev. by: Dingzhong Chen
-Last rev.: 20200330
+Last rev.: 20200421
 
 === PeaZip text group ===
 
+txt_7_2_altcomp: 另一种压缩，ARC
+txt_7_2_clearnoupdate: 清除已编辑的文件
+txt_7_2_autoclosepeazip: 任务完成时关闭 PeaZip
+txt_7_2_zpaqall: 解压所有版本
+txt_7_2_extcomp: 极限压缩，ZPAQ
+txt_7_2_extcompultra: 极限压缩，ZPAQ Ultra
+txt_7_2_fbrotlicomp: 最快压缩，Brotli
+txt_7_2_fzstandardcomp: 最快压缩，Zstandard
+txt_7_2_loadcompsettings: 加载压缩设置
+txt_7_2_savecompsettings: 保存压缩设置
+txt_7_2_source: 源
+txt_7_2_updateclear: 向归档文件更新已编辑的文件，并清除这些文件
 txt_7_1_type_description_brotli: Brotli：来自 Google 的快速压缩算法，具有非常快的解压速度
 txt_7_1_new: 全部解压到此处（在新文件夹中）
 txt_7_1_smart: 全部解压到此处（智能模式）
@@ -128,7 +140,7 @@ txt_5_5_upper: 大写字母
 txt_5_5_extw: 警告：修改文件后缀名可能导致文件不可用
 txt_5_4_da: 添加日期
 txt_5_4_deletearchives: 解压后删除原归档文件
-txt_5_4_deletefiles: 压缩后删除源文件
+txt_5_4_deletefiles: 归档后删除源文件
 txt_5_4_deleteoriginal: 在主屏幕中删除的过程也将会被追加到脚本中。
 txt_5_4_lv: 最后访问
 txt_5_4_deletearchivesconfirm: 确定要删除原归档文件吗？
@@ -146,7 +158,7 @@ txt_5_3_cmlmessage: 双击需要的右键菜单语言文件并将它们合并到
 txt_5_3_exc: 排除过滤器的设置覆盖包含过滤器的
 txt_5_3_ia: 也包括在内
 txt_5_3_io: 只包括
-txt_5_3_rec: 递归压缩子目录
+txt_5_3_rec: 递归归档子目录
 txt_5_3_resetsi: 重新配置系统集成（右键菜单、“发送到”菜单、文件关联）吗？
 txt_5_2_oadd: 存档到原始路径
 txt_5_2_zerodelete: 你想要用 0 删除且覆盖所有选定的文件吗？该操作无法被撤销，文件将无法被恢复
@@ -282,8 +294,8 @@ txt_4_1_duplicatesfind: 查找重复文件
 txt_4_1_runasadmin: 以管理员身份运行
 txt_4_1_simplesearch: 简洁搜索
 txt_4_0_thim: 显示图片缩略图
-txt_3_8_type_description_wim: WIM: 微软磁盘镜像格式
-txt_3_8_type_description_xz: XZ: 基于 LZMA2 的强大的文件压缩算法
+txt_3_8_type_description_wim: WIM：微软磁盘镜像格式
+txt_3_8_type_description_xz: XZ：基于 LZMA2 的强大的文件压缩算法
 txt_3_7_donations: 捐赠
 txt_3_7_nameasparent: 如果添加了多个项目，则以这些项目所在文件夹的名称命名归档文件
 txt_3_7_tracker: PeaZip追踪器：bug、特征需求
@@ -322,7 +334,7 @@ txt_3_1_src: 搜索
 txt_3_1_systmp: 系统临时文件夹
 txt_3_1_languagetools: 翻译
 txt_3_1_workingdir: 工作目录
-txt_3_0_nonreadableorpw: 压缩无法读取。输入密码试试？
+txt_3_0_nonreadableorpw: 归档文件无法读取。此归档文件可能失效，或者其目录可能被加密。输入密码试试？
 txt_3_0_readablepw: 归档文件似乎有密码保护
 txt_3_0_configure: 系统集成
 txt_3_0_resettmp: 重置 PeaZip 临时文件夹
@@ -376,7 +388,7 @@ txt_2_7_experimental: （试验功能，参见文档）
 txt_2_7_optional: （可选）
 txt_2_7_list_tryflatorpw: ，您也许可以：选择平坦视图（F6）、输入密码（F9），或重新复制文件
 txt_2_7_separate: 添加每个对象到单独的归档文件
-txt_2_7_pwsupported: 压缩时输入密码
+txt_2_7_pwsupported: 归档时输入密码
 txt_2_7_cancel: 取消
 txt_2_7_encfn: 加密文件名（如果格式支持）
 txt_2_7_setpw: 输入密码 / 密钥文件
@@ -385,10 +397,10 @@ txt_2_7_extfrom: 正在从归档文件中解压：
 txt_2_7_es: 解压支持的非归档文件文件类型，比如 EXE、微软 Office 和 OpenDocument 文件
 txt_2_7_eu: 解压不支持的文件类型，自定义解压工具
 txt_2_7_clipboard: 剪贴板
-txt_2_7_goarclayout: 切换到压缩视图
+txt_2_7_goarclayout: 切换到归档视图
 txt_2_7_goextlayout: 切换到解压视图
 txt_2_7_ok: 确定
-txt_2_7_drag_archive: 将文件作为新归档文件打开吗？（选“否”则将文件添加到当前压缩视图）
+txt_2_7_drag_archive: 将文件作为新归档文件打开吗？（选“否”则将文件添加到当前归档视图）
 txt_2_7_oop: 作业完成后打开输出路径
 txt_2_7_validatefn: 操作中止，发现无效文件名：
 txt_2_7_validatecl: 操作中止，发现潜在的危险命令（比如程序不允许的命令连接）：
@@ -416,7 +428,7 @@ txt_2_5_cannotrun: 无法运行
 txt_2_5_custeditors: 自定义编辑器、播放器、杀毒软件等等（忽略系统的文件关联设置）
 txt_2_5_delete: 删除
 txt_2_5_delete_fromarchive: 从归档文件中删除
-txt_2_5_langflag: 以 UTF-8 编码显示压缩档案名称；不选则用“?”替换扩展字符
+txt_2_5_langflag: 以 UTF-8 编码显示归档文件名称；不选则用“?”替换扩展字符
 txt_2_5_encpj: 将作业保存为 UTF-8 格式
 txt_2_5_execommand: 可执行文件或命令
 txt_2_5_help: 帮助[&H]
@@ -448,7 +460,7 @@ txt_2_4_hexp: 十六进制预览
 txt_2_4_operation: 操作
 txt_2_4_path: 路径不可写（不存在或为只读），请选择一个可写路径
 txt_2_4_removefromclipboard: 从剪贴板中删除
-txt_2_4_stdclip: Standard: 仅在剪贴板中保留 1 个选择项，粘贴后即删除剪切项
+txt_2_4_stdclip: Standard：仅在剪贴板中保留 1 个选择项，粘贴后即删除剪切项
 txt_2_4_totalmem: 内存总计
 txt_2_4_gvideo: 视频
 txt_2_4_wbook: 维基教科书
@@ -524,7 +536,7 @@ txt_ignore_sel: 对“解压选定的…”，总是忽略路径
 txt_key_hint: 将密钥文件的散列值添加到密码；PeaZip 和其他遵循相同标准的程序都可以解密此归档文件，或者将散列值作为密码部分来输入
 txt_timestamp: 附加时间戳到文件名
 txt_appoptions: 程序选项
-txt_type_description_arc: ARC：实验性质的压缩程序，强大、高效且功能丰富
+txt_type_description_arc: ARC：实验性质的归档程序，强大、高效且功能丰富
 txt_archive: 归档文件
 txt_un7z_browse_ok: 归档文件载入浏览成功
 txt_interface: 归档文件浏览器界面
@@ -638,7 +650,7 @@ txt_exclude_hint: 排除文件，每个一行；可以使用 * 和 ? 通配符�
 txt_exclusion_recourse: 排除筛选递归子目录
 txt_exclusion: 排除
 txt_exe: 可执行
-txt_overwrite_qry: 在目标路径中已经存在；用源路径中相同名称的文件覆盖吗？（取消: 跳过复制此对象）
+txt_overwrite_qry: 在目标路径中已经存在；用源路径中相同名称的文件覆盖吗？（取消：跳过复制此对象）
 txt_confirm_overwrite: 已存在；是否覆盖？（按“否”跳过）
 txt_explore_outpath: 浏览输出路径
 txt_explore_path: 浏览路径
@@ -690,7 +702,7 @@ txt_multithreading: 通用多线程
 txt_go_browser: 转到文件浏览器
 txt_go_path: 浏览路径（PeaZip）
 txt_guicl: 图形界面 + 控制台
-txt_guipealauncher: 图形界面: 由 PeaLauncher 封装
+txt_guipealauncher: 图形界面：由 PeaLauncher 封装
 txt_graphic: 图形界面文件夹
 txt_gridaltcolor: 网格色彩交替
 txt_gridrowheight: 网格行高
@@ -839,13 +851,13 @@ txt_upxorstrip: 对二进制文件，请选择 Strip 和 / 或 UPX
 txt_not_removable_file: 请关闭正在使用的文件，以便 PeaZip 删除它：
 txt_not_removable: 请关闭正在使用的文件，以便 PeaZip 删除它所在的文件夹：
 txt_custom_executable_missing: 请提供自定义的可执行文件的名称
-txt_type_unsupported_select: 请选择支持的压缩类型：
+txt_type_unsupported_select: 请选择支持的归档类型：
 txt_no_theme_name: 请指定主题名称
 txt_please_wait: 请稍候
 txt_copy_wait: 在执行其他预定的同类型操作之前，请等待当前的预定的文件复制 / 移动操作完成
 txt_previewwith: 用此预览…
 txt_projectadmin: 项目管理员：
-txt_type_description_quad: BALZ / QUAD: 高性能、基于 ROLZ 的文件压缩程序
+txt_type_description_quad: BALZ / QUAD：高性能、基于 ROLZ 的文件压缩程序
 txt_quickdelete: 快速删除
 txt_quit: 退出[&X]
 txt_unit_ram: 内存盘
@@ -920,15 +932,15 @@ txt_list_nostats: 统计信息不可用
 txt_status: 状态
 txt_level_store: 存储
 txt_stream_control: 流控制
-txt_strip: 在用 UPX 压缩前用 Strip 脱壳（推荐）
+txt_strip: 先 Strip（移除符号）再用 UPX 压缩（推荐）
 txt_keyfile_created: 创建密钥文件成功：
 txt_suggestpw: 创建随机密码
-txt_noupx: 符号被删除，UPX 压缩已略过
+txt_noupx: 符号已被移除，UPX 压缩已略过
 txt_syntax: 语法：
 txt_sysbenchmark: 系统基准程序
 txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续吗？
 txt_systools: 系统工具
-txt_tarbefore: 先用 TAR 打包
+txt_tarbefore: 先用 TAR 归档
 txt_type_description_tar: TAR：UNIX 系统上的主流归档文件格式
 txt_taskman: 任务管理器
 txt_caption_test: 测试
@@ -964,7 +976,7 @@ txt_unit_unknown: 未知的驱动器类型
 txt_un7z_pw_untested: 未测试
 txt_up: 向上
 txt_update: 更新（如果归档文件存在）
-txt_type_description_upx: UPX: 仅压缩可执行文件
+txt_type_description_upx: UPX：仅用于压缩可执行文件
 txt_advfilters: 使用高级过滤器
 txt_openfiles_hint: 使用此选项可以将其它程序正在使用的文件强制包含在归档文件中（在备份时很有用）
 txt_usenet: Usenet
@@ -980,7 +992,7 @@ txt_write: 生成：
 txt_ramdompw_hint: 您可以从此处复制随机生成的密码
 txt_exe_hint: 对于自定义压缩，您可以自由输入可执行程序的名称和参数，并选择语法结构。请注意，您也可以在“控制台”标签中手动修改命令的语法。
 txt_pj_hint2: 在下面的备注区域，您可以从图形界面前端导入作业的定义。之后，您可以编辑、启动或保存它，且不会修改或删除作业定义。
-txt_type_description_zip: ZIP：快速打包 / 压缩格式， Windows 系统主流格式
+txt_type_description_zip: ZIP：快速归档 / 压缩格式， Windows 系统主流格式
 txt_zipcrypto_hint: ZipCrypto（已过时）
 
 === end PeaZip text group ===
