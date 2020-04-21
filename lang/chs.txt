@@ -463,10 +463,10 @@ txt_2_3_on_pw: 从系统菜单在解压 / 列表 / 测试操作上：
 txt_2_3_test_pw100: 测试加密小于 100MB 的归档文件
 txt_2_3_test_pw: 测试加密（可能较慢）
 txt_exclude_recourse: “排除”递归子目录
-txt_action_extopen: “使用关联的程序解压并打开”动作
+txt_action_extopen: “解压后使用关联的程序打开”操作
 txt_error_passwordnotmatch: 两次输入的密码不相同，请修改
-txt_action_preview: “使用关联的程序预览”动作
-txt_preview_hint: “预览”动作与“解压并打开”执行的任务相同，但是会在输出目录中创建一个临时路径，并在关闭归档文件后自动删除它。
+txt_action_preview: “使用关联的程序预览”操作
+txt_preview_hint: “预览”操作与“解压并打开”执行的任务相同，但是会在输出目录中创建临时路径，并在关闭归档文件后自动删除它。
 txt_better: （较好）
 txt_default2: （默认）
 txt_faster: （较快）
@@ -476,64 +476,64 @@ txt_stream: （由“流控制”设定）
 txt_slowermem: （较慢，占用内存较多）
 txt_store: （仅存储，最快）
 txt_newfolder: （在新文件夹中）
-txt_7z_exitcodeunknown: ：作业出现未知错误
+txt_7z_exitcodeunknown: ：任务出现未知错误
 txt_list_isfolder: [文件夹]
 txt_none: <无>
 txt_fd: 1.44 MB 软盘
-txt_7z_exitcode1: 1: 警告: 非致命错误；比如某些文件丢失或者被锁定
-txt_attach10: 10 MB （附件大小）
-txt_7z_exitcode2: 2: 发生致命错误
-txt_7z_exitcode255: 255: 作业被用户中止
-txt_fat32: 4 GB （FAT32 文件系统单个文件最大大小）
+txt_7z_exitcode1: 1：警告: 非致命错误；比如某些文件丢失或者被锁定
+txt_attach10: 10 MB（附件大小）
+txt_7z_exitcode2: 2：发生致命错误
+txt_7z_exitcode255: 255: 任务被用户中止
+txt_fat32: 4 GB FAT32 文件
 txt_dvd: 4.7 GB DVD
-txt_attach5: 5 MB （附件大小）
-txt_cd650: 650 MB光盘
-txt_7z_exitcode7: 7: 错误：命令行不正确
-txt_cd700: 700 MB光盘
-txt_type_description_7z: 7z: 功能丰富、压缩率高的归档文件格式
-txt_dvddl: 8.5 GB DVD DL
-txt_7z_exitcode8: 8: 错误：内存不足
+txt_attach5: 5 MB（附件大小）
+txt_cd650: 650 MB 光盘
+txt_7z_exitcode7: 7：错误：命令行不正确
+txt_cd700: 700 MB 光盘
+txt_type_description_7z: 7z：功能丰富、压缩率高的归档格式
+txt_dvddl: 8.5 GB 双层 DVD
+txt_7z_exitcode8: 8：错误：内存不足，无法执行请求的操作
 txt_abort: 是否中止计划的文件复制 / 移动操作？
 txt_about: 关于
-txt_action: 动作
-txt_action_hint: 使用关联程序打开或预览时的动作
+txt_action: 操作
+txt_action_hint: 使用关联程序打开或预览时的操作
 txt_add: 添加
 txt_add_existing_archive: 添加（如果归档文件存在）
 txt_add_archive: 添加归档文件
 txt_add_files: 添加文件
 txt_add_folder: 添加文件夹
 txt_add_path: 添加路径
-txt_add_tolayout: 添加选定的文件和文件夹到压缩视图中
+txt_add_tolayout: 添加选定的文件和文件夹到归档视图中
 txt_add_toarchive: 添加到归档文件
 txt_add_tobookmarks: 添加到书签
-txt_address_hint: 过滤器：允许使用 ? 和 * 通配符
-txt_adv_filters: 高级过滤器
+txt_address_hint: 筛选器：允许使用 ? 和 * 通配符
+txt_adv_filters: 高级筛选器
 txt_algo: 算法
-txt_all: 所有
-txt_all_default: 所有（默认）
-txt_all_type: 相同类型的全部对象
-txt_all_date: 相同日期的全部对象…
-txt_all_psize: 相同压缩大小的所有对象…
-txt_all_attributes: 相同属性的所有对象
-txt_all_size: 相同大小的所有对象…
-txt_error_input_upx: 允许单个的可执行文件作为输入
+txt_all: 全部
+txt_all_default: 全部（默认）
+txt_all_type: 相同类型
+txt_all_date: 日期
+txt_all_psize: 打包文件大小
+txt_all_attributes: 相同属性
+txt_all_size: 文件大小
+txt_error_input_upx: 允许单个可执行文件作为输入
 txt_always_pw: 总是询问密码
 txt_ignore_ext: 对“解压并…”，总是忽略路径
 txt_ignore_disp: 对“解压显示的…”，总是忽略路径
 txt_ignore_sel: 对“解压选定的…”，总是忽略路径
-txt_key_hint: 将密钥文件的 Hash 值添加到密码；PeaZip 和其他遵循相同标准的程序都可以解密归档文件，或者将Hash值作为密码的一部分来输入
-txt_timestamp: 附加时间戳到归档文件名
+txt_key_hint: 将密钥文件的散列值添加到密码；PeaZip 和其他遵循相同标准的程序都可以解密此归档文件，或者将散列值作为密码部分来输入
+txt_timestamp: 附加时间戳到文件名
 txt_appoptions: 程序选项
-txt_type_description_arc: ARC: 实验性质的压缩程序，强大、高效且功能丰富
+txt_type_description_arc: ARC：实验性质的压缩程序，强大、高效且功能丰富
 txt_archive: 归档文件
-txt_un7z_browse_ok: 归档文件浏览成功
+txt_un7z_browse_ok: 归档文件载入浏览成功
 txt_interface: 归档文件浏览器界面
 txt_archivecreation: 归档文件创建
-txt_tarbefore_hint: 早于特定类型的 TAR 格式的压缩数据。
-txt_archive_hint: 打包、压缩、分割和保留私有文件、文件夹和卷
+txt_tarbefore_hint: 归档到指定类型前先打包成 TAR 格式。
+txt_archive_hint: 归档、压缩、分割和保密文件、文件夹和卷
 txt_compressionratio_hint: 归档文件的压缩率
-txt_archiving: 压缩：
-txt_cl_long: 参数超越了 PeaZip 前端能够接受的最大尺寸，请少选一些（比如选择目录而不是单个文件）
+txt_archiving: 正在归档：
+txt_cl_long: 参数超过了 PeaZip 前端所能接受的最大数量，请少选一些输入文件（比如选择目录而不是单个文件）
 txt_overwrite_askbefore: 覆盖前询问（用于控制台模式）
 txt_associated: 关联的程序
 txt_attributes: 属性
@@ -550,48 +550,48 @@ txt_blowfish: Blowfish448（64 位块）
 txt_bookmarks: 书签
 txt_browse: 浏览
 txt_browser: 浏览器[&B]
-txt_aborted_error: 浏览归档文件耗时太久，已停止。你可以使用搜索（F3）或退出平坦视图（F6）来更精确地选择；解压 / 列表 / 测试操作不受此操作影响。
+txt_aborted_error: 归档文件载入浏览耗时太久，已停止。你可以使用搜索（F3）缩小选择范围或退出平坦视图（F6）；解压 / 列出 / 测试操作不受此操作影响。
 txt_list_browsing: 浏览：
 txt_archive_root: 浏览：归档文件根目录
-txt_type_description_bzip2: BZip2：十分强大的压缩算法，速度一般
+txt_type_description_bzip2: BZip2：十分强大的压缩能力，速度一般
 txt_pw_empty: 请提供密码（或密钥文件）
-txt_add_error: 不能添加 / 更新或删除对象；可能仅支持对此类归档文件的浏览 / 解压，或不支持特定的操作（比如多卷或固实压缩），或 PeaZip 不能处理归档文件名称
+txt_add_error:不能添加、更新或删除对象；可能仅支持对此类归档文件的浏览、解压，或不支持特定的操作（比如多卷或固实压缩），或 PeaZip 不能完全处理归档名称
 txt_un7z_browse_failure: 不能浏览归档文件
-txt_list_error: 不能列出归档文件内容，请检查归档文件是否有密码保护或者已经损坏。
+txt_list_error: 不能列出归档内容，请检查归档文件是否有密码保护或者已经损坏。
 txt_conf_cannotsave: 不能保存配置文件，请检查路径是否允许写入并且有剩余空间
-txt_check_hint: 检测非故意导致的数据损坏；Hash 算法也适用于检测恶意数据篡改（参见文档）
-txt_check: 校验码 / 散列值（Hash）文件
-txt_check_select: 校验码 / 散列值（Hash）
+txt_check_hint: 检测非故意导致的数据损坏；散列算法也适用于检测恶意数据篡改（参见文档）
+txt_check: 计算文件校验码 / 散列值
+txt_check_select: 计算校验码 / 散列值
 txt_clear: 清除
 txt_clearlayout: 清除视图
-txt_pj_hint: 点此导入作业，重置修改，并从用户界面载入定义的日期
-txt_autoclose: 作业完成时关闭 PeaLauncher
+txt_pj_hint: 点此导入任务，重置修改，并从用户界面载入日期任务定义
+txt_autoclose: 任务完成时关闭 PeaLauncher
 txt_cl: 命令行：
 txt_compare: 比较文件
 txt_compress: 压缩
 txt_compress_executable: 压缩可执行文件
-txt_compress_openforwriting: 归档文件打开（正在被写入）
+txt_compress_openforwriting: 压缩正被写入的文件
 txt_compression: 压缩
 txt_compmanagement: 计算机管理
-txt_pw_confirm: 确认密码
+txt_pw_confirm: 确认
 txt_console: 控制台
-txt_console_interface: 控制台: 活动接口
+txt_console_interface: 控制台：原生接口
 txt_content: 内容
 txt_controlpanel: 控制面板
 txt_convert: 将磁盘转换成 NTFS 格式
 txt_copy: 复制
 txt_copyto: 复制到…
 txt_create: 创建
-txt_create_archive: 创建归档文件
-txt_title_create: 创建归档文件，压缩、加密、分割…
+txt_create_archive: 新建归档文件
+txt_title_create: 创建归档文件、压缩、加密、分割…
 txt_create_keyfile: 创建密钥文件
-txt_create_folder: 创建文件夹
-txt_create_theme: 从当前设置创建新主题：
+txt_create_folder: 新建文件夹
+txt_create_theme: 从当前设置创建新主题
 txt_rr: 创建恢复记录
-txt_create_sfx: 创建自解压文档
-txt_cr_current: 当前路径或过滤器压缩率
+txt_create_sfx: 创建自解压归档
+txt_cr_current: 当前路径或筛选器压缩率
 txt_custom: 自定义
-txt_type_description_custom: 自定义（高级）: 输入可执行文件的名称和参数
+txt_type_description_custom: 自定义（高级用户）：输入可执行文件的名称和参数
 txt_customapp: 自定义程序
 txt_custom_parameters: 自定义参数
 txt_customsize: 自定义大小
@@ -626,17 +626,17 @@ txt_note: 输入备注 / 说明
 txt_random_keys: 按任意健
 txt_random_keys_hint: 随便按一些键（无须记住）
 txt_ent: 熵测算
-txt_ent_tools: 移动鼠标或使用熵采样工具
-txt_eqorlarger: 等于或大于选定的对象
-txt_eqorrecent: 等于或比选定对象更接近
+txt_ent_tools: 移动鼠标或使用其他熵采样工具
+txt_eqorlarger: 等于或大于选定对象
+txt_eqorrecent: 等于或晚于选定对象
 txt_eqorolder: 等于或早于选定对象
 txt_eqorsmaller: 等于或小于选定对象
 txt_equal: 等于选定对象
-txt_erase_hint: 安全删除：使用随机数据覆盖、伪造尺寸、重命名、彻底删除
+txt_erase_hint: 安全删除：使用随机数据覆盖、伪造大小、重命名，最后彻底删除
 txt_extraction_error: 解压缩选定对象出错。如果归档文件有密码，请输入
-txt_exclude_hint: 排除文件，每个一行；可以使用 * 和 ? 通配符； 不需要用 " 和 ' 分隔
-txt_exclusion_recourse: 排除过滤递归子目录
-txt_exclusion: 排除：
+txt_exclude_hint: 排除文件，每个一行；可以使用 * 和 ? 通配符；不需要用 " 和 ' 分隔
+txt_exclusion_recourse: 排除筛选递归子目录
+txt_exclusion: 排除
 txt_exe: 可执行
 txt_overwrite_qry: 在目标路径中已经存在；用源路径中相同名称的文件覆盖吗？（取消: 跳过复制此对象）
 txt_confirm_overwrite: 已存在；是否覆盖？（按“否”跳过）
@@ -662,31 +662,31 @@ txt_newfoldermenu: 解压到新文件夹
 txt_extto: 解压到…
 txt_level_fast: 快速
 txt_fastcompr: 快速压缩
-txt_fastopen: 快速打开，如果列表受限则停止浏览
+txt_fastopen: 快速打开例程，停止浏览超大的归档文件，改用筛选器
 txt_level_fastest: 最快
 txt_favformats: 常用格式
 txt_file: 文件[&F]
-txt_filebrowser: 文件浏览器 / 归档文件浏览器
+txt_filebrowser: 文件浏览器 / 归档浏览器
 txt_filetools: 文件工具
 txt_files: 文件，
 txt_nfiles: 文件
 txt_fs: 文件系统
-txt_filters_recourse: 过滤器递归子目录
-txt_filters: 过滤器
-txt_flat: 平坦模式（全部显示）
-txt_list_flat: 平坦视图：
-txt_unit_floppy: 软驱
+txt_filters_recourse: 筛选器递归子目录
+txt_filters: 筛选器
+txt_flat: 平面模式（全部显示）
+txt_list_flat: 平面视图
+txt_unit_floppy: 软盘
 txt_foldername: 文件夹名称
 txt_nfolders: 文件夹
-txt_error_input_multi: 格式仅允许输入单个文件；您可以先使用“TAR 优先”选项将输入保存为 .TAR 文档，否则可以选择其它格式。提示：先选定输入数据：“TAR 优先”选项将被自动设置，之后再选择归档文件格式
+txt_error_input_multi: 格式仅允许输入单个文件；您可以先使用“先用 TAR 打包”选项将输入保存为 .TAR 归档，否则可以选择其它格式。提示：选择输入数据后再选择归档格式，将自动设置“先用 TAR 打包”选项
 txt_fwd: 前进
-txt_list_found: 找到：
-txt_free: 剩余
+txt_list_found: 找到
+txt_free: 可用
 txt_free2: 剩余
-txt_name_full: 完整路径
+txt_name_full: 完整名称
 txt_function: 功能
 txt_general: 常规
-txt_multithreading: 普通多线程
+txt_multithreading: 通用多线程
 txt_go_browser: 转到文件浏览器
 txt_go_path: 浏览路径（PeaZip）
 txt_guicl: 图形界面 + 控制台
@@ -699,19 +699,19 @@ txt_type_description_gzip: GZip：压缩速度快
 txt_here: 到此处
 txt_list_history: 历史记录
 txt_homeroot: 计算机 / 归档文件根目录
-txt_quickbrowse_hint: 如果浏览被停止，用户可以使用搜索和过滤功能缩小选择；解压缩 / 列表 / 测试功能不受此影响。
+txt_quickbrowse_hint:如果浏览被停止，用户可以使用搜索和过滤功能缩小选择范围；解压缩 / 列出 / 测试功能不受此影响。
 txt_backupexe_hint: 如果出错，导致非致命性结果，您可以从自动备份中恢复原始的可执行文件
 txt_attach: 如果邮件客户端支持此命令，归档文件将被添加为新邮件的附件
 txt_images: 图像
 txt_include_hint: 包含文件，每个一行；可使用 * 和 ? 通配符；不需要使用 " 和 ' 分隔
-txt_filters_hint: 为7z 二进制包含或排除过滤器，请仔细阅读 7-Zip 文档弄懂如何使用过滤器
+txt_filters_hint: 用于 7z 程序的包含或排除过滤器，请仔细阅读 7-Zip 文档弄懂如何使用过滤器
 txt_inclusion_recourse: 包含过滤器递归子文件夹
-txt_inclusion: 包含：
+txt_inclusion: 包含
 txt_error_function: 请求的功能不正确
 txt_info: 信息
-txt_infoall: 所有的信息
-txt_infodisp: 显示的对象的信息
-txt_infosel: 选定的对象的信息
+txt_infoall: 所有信息
+txt_infodisp: 所显示对象的信息
+txt_infosel: 所选定对象的信息
 txt_inputinfo: 输入信息
 txt_input_list: 输入列表：
 txt_iop: 输入、输出、参数
@@ -720,17 +720,17 @@ txt_input: 输入：
 txt_integrity: 完整性检查
 txt_chunk_size: 自定义大小无效，请修改为数值
 txt_invertsel: 反选
-txt_type_exe: 这是一个 Windows 可执行文件，要运行吗? （选“否”将在 PeaZip 压缩浏览器中打开；仅 NSIS 安装程序、7-Zip 自解压文件 和 .MSI 安装程序可以用此方式浏览）
-txt_return_to_archive: 正在被打开；想要浏览它吗?
+txt_type_exe: 是个 Windows 可执行文件，要运行它吗？（选“否”将尝试以归档文件打开）提示：有些可执行文件在完整解压后才能正常运行
+txt_return_to_archive: 正在被打开；仍要浏览它吗?
 txt_not_accessible: 已不能访问
-txt_type_unsupported: 不是支持的归档文件格式
+txt_type_unsupported: 不是支持的归档格式
 txt_checkname_failed: 名称无效。
 txt_not_accessible_list: 不能访问，请检查提供的文件列表是否正确且已更新
-txt_theme_create_error: 不能创建主题，请为文件夹使用一个有效的名称作为主题名称，并选择一个可写的路径
-txt_theme_exists: jet 已经存在，请提供一个不同的路径
-txt_job_code: 作业代码：
-txt_job_definition_saved: 作业定义成功保存在
-txt_job_success: 作业成功完成！
+txt_theme_create_error: 无法创建主题，请为文件夹取个有效名称作为主题名称，并选择一个可写的路径
+txt_theme_exists: 已经存在，请提供一个不同的路径
+txt_job_code: 任务代码：
+txt_job_definition_saved: 任务定义成功保存在
+txt_job_success: 任务成功完成！
 txt_join: 加入
 txt_joinfiles: 加入文件
 txt_keyfile: 密钥文件
@@ -738,34 +738,34 @@ txt_keyfile_not_found: 未找到或无法读取密钥文件。请另选一个密
 txt_keyfile_notcreated: 密钥文件未被创建
 txt_larger: 大于选定的对象
 txt_lastused: 最近使用的
-txt_launch: 启动作业
+txt_launch: 启动任务
 txt_layout: 视图
-txt_filelist_savedas: 视图已另存为
+txt_filelist_savedas: 文件视图已存为
 txt_level: 级别
-txt_license: 许可
+txt_license: 许可证
 txt_caption_list: 列表
-txt_list_details: 列表（有详细资料）
+txt_list_details: 列表（带详细资料）
 txt_list_all: 全部列出
-txt_list_disp: 列出显示的对象
-txt_list_sel: 列出选定的对象
-txt_toggle_warning: 以平坦视图显示路径下的所有内容，会耗时较长，继续吗？
+txt_list_disp: 列出所显示对象
+txt_list_sel: 列出所选定对象
+txt_toggle_warning: 以平面视图显示路径下的所有内容，会耗时较长，继续吗？
 txt_loadfile: 载入文件
-txt_loadlayout: 载入视图
+txt_loadlayout: 载入文件视图
 txt_unit_hd: 本地磁盘
 txt_localization: 本地化
 txt_lpaqver: LPAQ 版本
-txt_type_description_lpaq: LPAQ：PAQ 的较快版本，压缩比极高
+txt_type_description_lpaq: LPAQ：PAQ 的快速版本，压缩比极高
 txt_maininterface: 主界面
 txt_maxcomp: 最大压缩模式
 txt_level_maximum: 最大
 txt_restartrequired: 需要重启程序才能生效
-txt_required_memory: MB，需要的内存
+txt_required_memory: MB 所需内存
 txt_method: 方法
 txt_misc: 更多
 txt_modify: 修改
 txt_morecontrols: 更多控制（历史记录、书签…）
-txt_morerecent: 比选定的对象更新
-txt_ent_hint: 在编辑区域移动鼠标、按任意键，从系统中载入文件以便收集熵…
+txt_morerecent: 比选定的对象更晚
+txt_ent_hint: 在编辑区域移动鼠标、按任意键，从系统中载入文件以便收集熵……
 txt_moveto: 移动到…
 txt_mypc: 计算机根目录
 txt_list_na: n/a
@@ -776,17 +776,17 @@ txt_newarchive: 新建归档文件
 txt_cnewfolder: 新建文件夹
 txt_news: 新闻
 txt_no: 否
-txt_noinput: 无法访问接受到的输入
+txt_noinput: 未收到可访问的输入
 txt_nocompress_hint: 不压缩（更快）
-txt_split_noinput: 没有选定的输入；请选择要分割的文件
-txt_open_noinput: 没有选定的输入；请选择一个归档文件（多卷归档文件的第一个卷）
+txt_split_noinput: 未选定输入；请选择要分割的文件
+txt_open_noinput: 未选定输入；请选择一个归档文件（多卷归档文件则选第一个卷）
 txt_list_nomatch: 不匹配
 txt_singlethread: 单线程
 txt_none2: 无
 txt_nonsolid: 非固实
 txt_level_normal: 正常
 txt_copy_error: 未成功复制或移动，错误代码：
-txt_description: 备注 / 说明
+txt_description: 备注
 txt_compare_second: 选择要比较的文件
 txt_peaobj: 对象控制
 txt_displayed_obj: 对象
@@ -1052,7 +1052,7 @@ txt_job127: 127：无法执行请求的操作
 txt_job2: 2：发生致命错误
 txt_job255: 255：任务被用户中止
 txt_job7: 7：错误：命令行参数不正确
-txt_job8: 8：错误：没有足够的内存执行请求的操作
+txt_job8: 8：错误：内存不足，无法执行请求的操作
 txt_autoclose: 任务完成时关闭此窗口
 txt_crscale: 压缩比（越低越好）：
 txt_console: 控制台
