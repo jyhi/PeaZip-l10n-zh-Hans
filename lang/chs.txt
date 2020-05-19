@@ -1,12 +1,21 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-7.2
+7.3
 翻译: Aerowolf, Junde Yhi
 Last rev. by: Junde Yhi
-Last rev.: 20200411
+Last rev.: 20200519
 
 === PeaZip text group ===
 
+txt_7_3_archiveerrors: 【归档文件可能含有错误】
+txt_7_3_archiveerrorshint: 归档文件可能（由于文件不存在、文件损坏或基本数据丢失等原因）无效，可以运行测试来获取详细信息。如果归档文件的目录也被加密了，浏览之前还需要密码。
+txt_7_3_clickextall: 点击“解压所有”来启用
+txt_7_3_noconfdel: 归档 / 解压之后不再询问是否删除
+txt_7_3_profile7zfastest: 快速压缩，7Z 最快
+txt_7_3_maxbr: 用更多内存换取最大化的 Brotli 压缩率（可能和其它解压软件不兼容）
+txt_7_3_maxzstd: 用更多内存换取最大化的 Zstandard 压缩率
+txt_7_3_profile7zfast: 中等压缩，7Z 快速
+txt_7_3_stl: 从最近的文件中设定归档文件的时间戳
 txt_7_2_altcomp: 另一种压缩，ARC
 txt_7_2_clearnoupdate: 清除已编辑的文件
 txt_7_2_autoclosepeazip: 任务完成时关闭 PeaZip
