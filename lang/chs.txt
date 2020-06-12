@@ -1,12 +1,21 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-7.2
+7.3
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen
 Last rev. by: Dingzhong Chen
-Last rev.: 20200611
+Last rev.: 20200612
 
 === PeaZip text group ===
 
+txt_7_3_archiveerrors: [归档文件可能包含错误]
+txt_7_3_archiveerrorshint: 归档文件可能失效（因其丢失、受损或不符合标准数据），运行测试可以获取更多详细信息。如果归档文件的目录内容已加密，浏览该归档需先输入密码。
+txt_7_3_clickextall: 点击“全部解压”以启用
+txt_7_3_noconfdel: 归档或解压后文件删除不再要求确认
+txt_7_3_profile7zfastest: 快速压缩，7Z 最快
+txt_7_3_maxbr: 最高 Brotli 压缩率，使用更多内存（可能与一些解压程序不兼容）
+txt_7_3_maxzstd: 最高 Zstandard 压缩率，使用更多内存
+txt_7_3_profile7zfast: 中等压缩率，7Z 较快
+txt_7_3_stl: 将最近文件的时间戳设到归档上
 txt_7_2_altcomp: 另一种压缩，ARC
 txt_7_2_clearnoupdate: 清除编辑过的文件
 txt_7_2_autoclosepeazip: 任务完成后关闭 PeaZip
@@ -20,7 +29,7 @@ txt_7_2_savecompsettings: 保存压缩设置
 txt_7_2_source: 源
 txt_7_2_updateclear: 更新编辑过的文件到归档内，然后清除这些文件
 txt_7_1_type_description_brotli: Brotli：来自 Google 的快速压缩算法，具有非常快的解压速度
-txt_7_1_new: 全部解压到此处（在新文件夹中）
+txt_7_1_new: 全部解压到此处（新建文件夹）
 txt_7_1_smart: 全部解压到此处（智能模式）
 txt_7_1_profileintermediate: 中等压缩率，ZIP / BZip2 快速压缩
 txt_7_1_renfilesonly: 仅对文件重命名
@@ -118,7 +127,7 @@ txt_5_5_new: 新字符串
 txt_5_5_n: 要删掉的字符数
 txt_5_5_old: 旧字符串
 txt_5_5_position: 位置（用数字表示，或用“z”来表示结尾）
-txt_5_5_intdir: 新建文件夹（智能）
+txt_5_5_intdir: 智能新建文件夹
 txt_5_5_replacestr: 替换 / 移除字符串
 txt_5_5_datesameday: 和选中项目同一天
 txt_5_5_datesamehour: 和选中项目同一小时
@@ -146,10 +155,10 @@ txt_5_4_lv: 最后访问
 txt_5_4_deletearchivesconfirm: 确定要删除原归档文件吗？
 txt_5_4_deletefilesconfirm: 确定要删除源文件吗？
 txt_5_4_used: 被使用
-txt_5_3_profilebest: 最大压缩率，7z 格式的最优级别
-txt_5_3_profileadvanced: 高压缩率，7z 格式
-txt_5_3_profilenormal: 普通的 zip 压缩，兼容大多数解压缩软件
-txt_5_3_profileveryfast: 快速的 zip 压缩，适合较大的多媒体文件
+txt_5_3_profilebest: 最大压缩率，7Z 最优
+txt_5_3_profileadvanced: 高压缩率，7Z
+txt_5_3_profilenormal: 中等压缩率，ZIP（兼容大多数解压缩软件）
+txt_5_3_profileveryfast: 快速压缩，ZIP 最快
 txt_5_3_profilepassword: 用密码保护，7z 格式
 txt_5_3_profile10mb: 保持输出小于 25MB，以适应电子邮件附件限制
 txt_5_3_profilesfx: 自解压格式，这样他人就不需要解压缩软件来解压它
