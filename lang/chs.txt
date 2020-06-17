@@ -452,7 +452,7 @@ txt_2_5_strafter: 输入名称后的字符串
 txt_2_5_strbefore: 输入名称前的字符串
 txt_2_5_encoding: 文本编码
 txt_2_5_nopw: 该归档格式不支持加密
-txt_2_4_draghint: [拖拽到启用了地址栏的资源管理器]
+txt_2_4_draghint: 【拖拽到启用了地址栏的资源管理器】
 txt_2_4_tb: 适应工具栏按钮（重启 PeaZip）
 txt_2_4_adding: 添加
 txt_2_4_advclip: 在剪贴板中保留多个选择项
@@ -498,7 +498,7 @@ txt_slowermem: （较慢，占用内存较多）
 txt_store: （仅存储，最快）
 txt_newfolder: （在新文件夹中）
 txt_7z_exitcodeunknown: ：任务出现未知错误
-txt_list_isfolder: [文件夹]
+txt_list_isfolder: 【文件夹】
 txt_none: <无>
 txt_fd: 1.44 MB 软盘
 txt_7z_exitcode1: 1：警告: 非致命错误；比如某些文件丢失或者被锁定
