@@ -1,12 +1,59 @@
 ﻿=== PeaZip language file ===
 Chinese - 简体中文
-7.3
+7.7
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen
-Last rev. by: Dingzhong Chen
-Last rev.: 20200612
+Last rev. by: Junde Yhi
+Last rev.: 20210323
 
 === PeaZip text group ===
 
+txt_7_7_noneall: 无（无预览、无拖放解压）
+txt_7_7_nonetemp: 无，必要时则在用户的临时目录里
+txt_7_7_outtemp: 输出，在用户的临时目录里预览
+txt_7_7_sys7zreq: 需要安装 p7zip-full 或与其兼容的软件
+txt_7_7_tw: 用于归档文件创建、修改、预览和拖放解压的临时工作文件夹
+txt_7_7_sys7z: 在 Linux 中使用系统 7z
+txt_7_6_zipenc: 7z / p7zip 的 ZIP 文件名编码
+txt_7_6_color: 颜色
+txt_7_6_custenc: 自定义代码页
+txt_7_6_dark: 暗色
+txt_7_6_tno: 不要实时更新归档文件的目录树
+txt_7_6_forcelocalenc: 强制使用本地编码
+txt_7_6_forceutf8enc: 强制使用 UTF-8
+txt_7_6_cpnote: 如果选择的自定义代码页不受支持，则任务必然会出错（很可能会是内存分配错误）。如果确实发生错误，请更改代码页或重置应用程序。
+txt_7_6_defaultenc: 使用本地编码，对额外的符号则使用 UTF-8
+txt_7_6_dim: 低亮
+txt_7_6_setcurdef: 将当前路径设置为默认输出路径
+txt_7_6_setdef: 设置默认输出路径
+txt_7_6_tadvanced: 实时更新归档文件的目录树，保留已访问节点
+txt_7_6_tsimple: 实时更新归档文件的目录树，简单算法
+txt_7_6_tacolor: 文字高亮
+txt_7_5_always: 总是
+txt_7_5_ask: 询问
+txt_7_5_autoclosesingle: 如果没有浏览动作，则解压后自动关闭
+txt_7_5_cutlen: 截断文件名到特定长度
+txt_7_5_cutlenw: 截断文件名到特定长度（4 到 255）文件名冲突可以之后手动解决
+txt_7_5_dragnone: 不要锁定目标
+txt_7_5_specialbrowse: 你想解压一切信息来呈现文件所需的额外数据吗？
+txt_7_5_ee: 解压特殊类型文件的一切信息
+txt_7_5_draghide: Hide drop target 隐藏拖放目标
+txt_7_5_draglh: Lock and hide target 锁定并隐藏目标
+txt_7_5_draglock: Lock drop target 锁定拖放目标
+txt_7_5_never: 永不
+txt_7_5_repnascii: 替换 / 移除非 ASCII 字符
+txt_7_4_comment: Comment 备注
+txt_7_4_7zfbrotlicomp: 最快压缩，7Z Brotli
+txt_7_4_7zfzstandardcomp: 最快压缩，7Z Zstandard
+txt_7_4_presetrar: 高压缩率，RAR
+txt_7_4_tkeep: 保留原归档文件的时间戳
+txt_7_4_lock: 锁定归档文件
+txt_7_4_locked: 已锁定
+txt_7_4_lockconfirm: 已锁定的归档文件不能再被修改，要继续锁定归档文件吗？
+txt_7_4_recover: 修复归档文件
+txt_7_4_tcurr: 用当前系统时间来设置归档文件的时间戳
+txt_7_4_setarc: 设置归档选项
+txt_7_4_setext: 设置解压选项
+txt_7_4_swzipx: 对不是用 Deflate 算法压缩的 ZIP 归档文件使用 zipx 扩展名
 txt_7_3_archiveerrors: 【归档文件可能含有错误】
 txt_7_3_archiveerrorshint: 归档文件可能（由于文件不存在、文件损坏或基本数据丢失等原因）无效，可以运行测试来获取详细信息。如果归档文件的目录也被加密了，浏览之前还需要密码。
 txt_7_3_clickextall: 点击“全部解压”来启用
