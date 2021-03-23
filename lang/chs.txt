@@ -1,12 +1,24 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-7.7
+7.8
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen
 Last rev. by: Junde Yhi
 Last rev.: 20210323
 
 === PeaZip text group ===
 
+txt_7_8_changelocalization: 更改 PeaZip 的语言
+txt_7_8_custext: 自定义扩展名
+txt_7_8_destexistfile: 目标已经包含处理过的文件。用相同的文件名替换这些文件吗？
+txt_7_8_dd: 拖放
+txt_7_8_priorityhigh: 高
+txt_7_8_priorityidle: 空闲
+txt_7_8_rel: 交互式解压
+txt_7_8_prioritynormal: 一般
+txt_7_8_priorityrealtime: 实时
+txt_7_8_requirerestart: 【需要重启 PeaZip】
+txt_7_8_tpriority: 任务优先级
+txt_7_8_update: 更新
 txt_7_7_noneall: 无（无预览、无拖放解压）
 txt_7_7_nonetemp: 无，必要时则在用户的临时目录里
 txt_7_7_outtemp: 输出，在用户的临时目录里预览
@@ -787,7 +799,7 @@ txt_ipo: 输入、参数、输出
 txt_input: 输入：
 txt_integrity: 完整性检查
 txt_chunk_size: 自定义大小无效，请修改为数值
-txt_invertsel: 反选
+txt_invertsel: 反computer‘s root选
 txt_type_exe: 是个 Windows 可执行文件，要运行它吗？（选“否”将尝试以归档文件打开）提示：有些可执行文件在完整提取后才能正常运行
 txt_return_to_archive: 正在被打开；仍要浏览它吗?
 txt_not_accessible: 已不能访问
