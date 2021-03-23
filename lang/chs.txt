@@ -48,9 +48,9 @@ txt_7_5_cutlenw: 截断文件名到特定长度（4 到 255）文件名冲突可
 txt_7_5_dragnone: 不要锁定目标
 txt_7_5_specialbrowse: 你想解压一切信息来呈现文件所需的额外数据吗？
 txt_7_5_ee: 解压特殊类型文件的一切信息
-txt_7_5_draghide: Hide drop target 隐藏拖放目标
-txt_7_5_draglh: Lock and hide target 锁定并隐藏目标
-txt_7_5_draglock: Lock drop target 锁定拖放目标
+txt_7_5_draghide: 隐藏拖放目标
+txt_7_5_draglh: 锁定并隐藏目标
+txt_7_5_draglock: 锁定拖放目标
 txt_7_5_never: 永不
 txt_7_5_repnascii: 替换 / 移除非 ASCII 字符
 txt_7_4_comment: Comment 备注
