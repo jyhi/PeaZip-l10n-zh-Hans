@@ -1,12 +1,22 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-7.9
+8.0
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen
 Last rev. by: Junde Yhi
-Last rev.: 20210419
+Last rev.: 20210611
 
 === PeaZip text group ===
 
+txt_8_0_altcol: 另一种网格色彩
+txt_8_0_forcebrowse: 浏览非规范的归档文件（容器、磁盘镜像、安装程序等）
+txt_8_0_commonalgo: 通用算法
+txt_8_0_forceconvert: 转换非规范的归档文件类型
+txt_8_0_defaultactionhint: 在系统里双击关联到 PeaZip 的文件时的默认动作
+txt_8_0_defaultaction: 启动时的默认动作
+txt_8_0_enableextand: 启用“解压并以…打开”子菜单
+txt_8_0_forcetyping: 强制交互式输入密码
+txt_8_0_setpwopt: 设置密码或密钥文件选项
+txt_8_0_forcetypinghelp: 将在控制台运行后端程序，此时将不能浏览带加密文件名的归档文件。允许创建交互式询问用户密码而非无人值守的脚本。
 txt_7_9_spacing: 间隔
 txt_7_9_zooming: 缩放
 txt_7_8_changelocalization: 更改 PeaZip 的语言
