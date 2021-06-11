@@ -811,7 +811,7 @@ txt_ipo: 输入、参数、输出
 txt_input: 输入：
 txt_integrity: 完整性检查
 txt_chunk_size: 自定义大小无效，请修改为数值
-txt_invertsel: 反computer‘s root选
+txt_invertsel: 反选
 txt_type_exe: 是个 Windows 可执行文件，要运行它吗？（选“否”将尝试以归档文件打开）提示：有些可执行文件在完整提取后才能正常运行
 txt_return_to_archive: 正在被打开；仍要浏览它吗?
 txt_not_accessible: 已不能访问
