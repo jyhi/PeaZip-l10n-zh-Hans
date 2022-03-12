@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # Script to fetch the latest PeaZip translation files.
-# Copyright (C) 2021 Junde Yhi <junde@yhi.moe>
+# Copyright (C) 2021, 2022 Junde Yhi <junde@yhi.moe>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -24,7 +24,7 @@ from argparse import ArgumentParser
 from pathlib import Path
 from zipfile import ZipFile
 
-argparser = ArgumentParser(description="Fetch the latest translation files from the upstream.", epilog="Note that ./lang/chs.txt and ./lang-wincontext/chs.reg will be overwritten.")
+argparser = ArgumentParser(description="Fetch the latest translation files from the upstream.", epilog="Files will be overwritten.")
 args = argparser.parse_args()
 
 resp_rel = requests.get("https://api.github.com/repos/peazip/PeaZip-Translations/releases/latest", headers={"Accept": "application/vnd.github.v3+json"})
@@ -40,15 +40,20 @@ for asset in rel["assets"]:
 
     with io.BytesIO() as file_mem:
       resp_asset = requests.get(url, headers={"Accept": "application/octet-stream"}, stream=True)
-      for chunk in resp_asset.iter_content(chunk_size=4096):
+      for chunk in resp_asset.iter_content(chunk_size=16384):
         file_mem.write(chunk)
 
       rootdir = Path(name[:-4]) # XXX: name.removesuffix(".zip")
-      txt = Path("lang/chs.txt")
-      reg = Path("lang-wincontext/chs.reg")
+
+      # reference copy
+      def_txt = Path("lang/default.txt")
+      def_reg = Path("lang-wincontext/default.reg")
+
+      chs_txt = Path("lang/chs.txt")
+      chs_reg = Path("lang-wincontext/chs.reg")
 
       file_zip = ZipFile(file_mem)
-      for f in [txt, reg]:
+      for f in [def_txt, def_reg, chs_txt, chs_reg]:
         with file_zip.open(str(rootdir / f), "r") as fin:
           with open(str(f), "wb") as fout:
             fout.write(fin.read())
