@@ -11,7 +11,7 @@ txt_8_8_ca: 强调色
 txt_8_8_btn: 按钮
 txt_8_8_cb: 按钮色
 txt_8_8_centered: 居中按钮
-txt_8_8_light: 浅色
+txt_8_8_light: 亮色
 txt_8_8_lnk: 链接
 txt_8_8_intnote: 请注意，如果在控制台中编辑了命令行，那么“交互式提取”选项（于选项 > 设置 > 归档管理器中）会被忽略。
 txt_8_8_snz: 传播 Zone.Identifier 流（Windows）
@@ -110,13 +110,13 @@ txt_7_7_sys7z: 在 Linux 中使用系统 7z
 txt_7_6_zipenc: 7z / p7zip 的 ZIP 文件名编码
 txt_7_6_color: 颜色
 txt_7_6_custenc: 自定义代码页
-txt_7_6_dark: 较暗
+txt_7_6_dark: 更暗
 txt_7_6_tno: 不要实时更新归档文件的目录树
 txt_7_6_forcelocalenc: 强制使用本地编码
 txt_7_6_forceutf8enc: 强制使用 UTF-8
 txt_7_6_cpnote: 如果选择的自定义代码页不受支持，则任务必然会出错（很可能会是内存分配错误）。如果确实发生错误，请更改代码页或重置应用程序。
 txt_7_6_defaultenc: 使用本地编码，对额外的符号则使用 UTF-8
-txt_7_6_dim: 暗
+txt_7_6_dim: 暗色
 txt_7_6_setcurdef: 将当前路径设置为默认输出路径
 txt_7_6_setdef: 设置默认输出路径
 txt_7_6_tadvanced: 实时更新归档文件的目录树，保留已访问节点
