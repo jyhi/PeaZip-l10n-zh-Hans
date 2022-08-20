@@ -153,13 +153,13 @@ txt_7_2_loadcompsettings: 加载压缩设置
 txt_7_2_savecompsettings: 保存压缩设置
 txt_7_2_source: 源
 txt_7_2_updateclear: 更新归档文件，清除编辑过的临时文件
-txt_7_1_type_description_brotli: Brotli：来自 Google 的快速压缩算法，具有非常快的提取速度
+txt_7_1_type_description_brotli: Brotli：来自 Google 的快速压缩算法，具有非常快的解压速度
 txt_7_1_new: 全部提取到此处（新建文件夹）
 txt_7_1_smart: 全部提取到此处（智能创建文件夹）
 txt_7_1_profileintermediate: 中等压缩率，ZIP / BZip2 快速压缩
 txt_7_1_renfilesonly: 仅对文件重命名
 txt_7_1_typetosearch: 打字以在当前路径搜索
-txt_7_1_type_description_zstd: Zstandard：来自 Facebook 的快速压缩算法，具有非常快的提取速度
+txt_7_1_type_description_zstd: Zstandard：来自 Facebook 的快速压缩算法，具有非常快的解压速度
 txt_7_0_af: 分析文件夹内容
 txt_7_0_autoopentar: 自动打开 tar.* 文件内的单个 TAR 归档文件
 txt_7_0_exttmppath: 内容将提取到临时路径外：
@@ -1049,7 +1049,7 @@ txt_singlevol: 单个卷，不分割
 txt_size: 大小
 txt_sizeb: 大小（字节）
 txt_skip_existing: 跳过已有文件
-txt_slowercomp: 压缩较慢，但提取较快
+txt_slowercomp: 压缩较慢，但解压较快
 txt_smaller: 小于选定对象
 txt_solid: 固实
 txt_solid_block: 块大小
