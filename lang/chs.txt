@@ -11,7 +11,7 @@ txt_9_6_centered: 居中
 txt_9_6_cside: 紧凑型侧边栏
 txt_9_6_loadpconfirm: 您想加载此配置文件吗？当前配置文件的所有数据都将被覆盖，包括保存的脚本和密码管理器。
 txt_9_6_loadp: 加载配置文件
-txt_9_6_saveppw: 可选：使用密码/密钥文件保护此配置文件？
+txt_9_6_saveppw: 可选：使用密码 / 密钥文件保护此配置文件？
 txt_9_6_savepoverwrite: 覆盖现有的配置文件？现有配置文件的所有数据都将被覆盖，包括保存的脚本和密码管理器。
 txt_9_6_savep: 保存配置文件
 txt_9_6_scside: 显示紧凑型侧边栏
@@ -24,7 +24,7 @@ txt_9_5_reopentab: 重新打开上一个标签页
 txt_9_5_savetabs: 保存标签页
 txt_9_5_sb: 使用系统路径中的可执行文件
 txt_9_4_r: 读取
-txt_9_4_rw: 读取/写入
+txt_9_4_rw: 读取 / 写入
 txt_9_4_savecomment: 保存注释
 txt_9_4_hintcomment: 在此处输入或粘贴注释，加载或拖拽注释文件到此处。
 txt_9_3_continue: 还要继续吗？
@@ -484,7 +484,7 @@ txt_4_3_pwmanhint: 在密码列表中，双击编辑项目，右击查看选项�
 txt_4_3_exppl: 导出密码列表
 txt_4_3_expple: 已加密（备份密码管理器）
 txt_4_3_keeppw: 此次会话中不再询问密码 / 密钥文件
-txt_4_3_pwmanpwhint: 建议设置密码 / 密钥文件来加密密码列表（并非必须）。设置之后，需要验证才能访问密码管理器。您可以随时在此窗口中修改密码/密钥文件。
+txt_4_3_pwmanpwhint: 建议设置密码 / 密钥文件来加密密码列表（并非必须）。设置之后，需要验证才能访问密码管理器。您可以随时在此窗口中修改密码 / 密钥文件。
 txt_4_3_pwmanmaster: 设置 / 更改密码管理器的主密码
 txt_4_3_pwmanlist: 密码列表
 txt_4_3_pwman: 密码管理器
@@ -494,7 +494,7 @@ txt_4_3_recsrc: 默认递归搜索
 txt_4_3_resetpm: 重置密码管理器？所有保存的密码都将删除
 txt_4_3_breadcrumb: 以地址块显示地址
 txt_4_2_arcabspath: 使用绝对路径
-txt_4_1_duplicateshint: 在当前目录或搜索筛选中发现的所有重复项目，其“大小”/“校验和”显示在 CRC 列中
+txt_4_1_duplicateshint: 在当前目录或搜索筛选中发现的所有重复项目，其大小值或者校验值显示在 CRC 列中
 txt_4_1_adminhint: （提示：可以提升用户权限以在受保护的路径里操作，您可以按 Alt + F10，或点击选项 > 以管理员身份运行）
 txt_4_1_selected: （选定）
 txt_4_1_duplicatesfound: 找到重复文件
@@ -1055,7 +1055,7 @@ txt_peazip_help: 在线支持
 txt_peazip_web: PeaZip 网站
 txt_performall: 执行所有支持的算法
 txt_name_provide: 不允许在文件名称中使用 \ / : * ? ' " < > | 等字符
-txt_upxorstrip: 对二进制文件，请选择 Strip 和/或 UPX
+txt_upxorstrip: 请对二进制文件选择 Strip 或 UPX，或同时选择二者
 txt_not_removable_file: 请关闭正在使用的文件，以便 PeaZip 删除它：
 txt_not_removable: 请关闭正在使用的文件，以便 PeaZip 删除它所在的文件夹：
 txt_custom_executable_missing: 请提供自定义的可执行文件的名称
