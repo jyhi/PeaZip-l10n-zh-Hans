@@ -795,7 +795,7 @@ txt_compression: 压缩
 txt_compmanagement: 计算机管理
 txt_pw_confirm: 确认
 txt_console: 控制台
-txt_console_interface: 控制台：原生接口
+txt_console_interface: 控制台
 txt_content: 内容
 txt_controlpanel: 控制面板
 txt_convert: 将磁盘转换成 NTFS 格式
@@ -910,7 +910,7 @@ txt_multithreading: 通用多线程
 txt_go_browser: 转到文件浏览器
 txt_go_path: 浏览路径（PeaZip）
 txt_guicl: 图形界面 + 控制台
-txt_guipealauncher: 图形界面：由 PeaLauncher 封装
+txt_guipealauncher: 图形界面
 txt_graphic: 图形界面文件夹
 txt_gridaltcolor: 网格色彩交替
 txt_gridrowheight: 网格行高
