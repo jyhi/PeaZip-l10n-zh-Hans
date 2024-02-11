@@ -1,12 +1,28 @@
 ﻿=== PeaZip language file ===
 English
-9.4
+9.6
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
-Last rev.: 20230723
+Last rev.: 20231009
 
 === PeaZip text group ===
 
+txt_9_6_centered: Centered
+txt_9_6_cside: Compact side bar
+txt_9_6_loadpconfirm: Do you want to load this profile? All the data of current profile will be overwritten, including saved scripts and Password Manager.
+txt_9_6_loadp: Load profile
+txt_9_6_saveppw: OPTIONAL: protect this profile with password / keyfile?
+txt_9_6_savepoverwrite: Overwrite existing profile? All the data of the existing profile will be overwritten, including saved scripts and Password Manager.
+txt_9_6_savep: Save profile
+txt_9_6_scside: Show Compact side bar
+txt_9_5_all: All
+txt_9_5_precond: Pre-parse if errors are detected
+txt_9_5_largea: Pre-parse large archives
+txt_9_5_mediuma: Pre-parse medium archives
+txt_9_5_smalla: Pre-parse small archives
+txt_9_5_reopentab: Reopen last tab
+txt_9_5_savetabs: Save tabs
+txt_9_5_sb: Use binaries in system paths
 txt_9_4_r: read
 txt_9_4_rw: read/write
 txt_9_4_savecomment: Save comment
@@ -128,7 +144,7 @@ txt_8_0_defaultaction: Default action on input
 txt_8_0_enableextand: Enable "Extract and open with" submenu
 txt_8_0_forcetyping: Force typing passwords interactively
 txt_8_0_setpwopt: Set password / keyfile options
-txt_8_0_forcetypinghelp: Will run backend binaries in console, cannot browse archives with encrypted filenames. Allows to create scripts that will not run unattended but rather ask user interactively for password.
+txt_8_0_forcetypinghelp: If supported by the backend, the task will prompt interactively for password. LIMITATIONS: task will run in console, will not run unattended, and cannot browse archives with encrypted filenames.
 txt_7_9_spacing: Spacing
 txt_7_9_zooming: Zooming
 txt_7_8_changelocalization: Change PeaZip language
@@ -149,7 +165,7 @@ txt_7_7_outtemp: Output, preview in user's temp
 txt_7_7_sys7zreq: Requires 7z, 7-Zip, or p7zip, or equivalent package to be installed
 txt_7_7_tw: Temporary work folder for archive creation, editing, preview and drag&drop extraction
 txt_7_7_sys7z: Use system 7z if available
-txt_7_6_zipenc: 7z / p7zip ZIP filenames encoding
+txt_7_6_zipenc: ZIP filenames encoding
 txt_7_6_color: Color
 txt_7_6_custenc: Custom code page
 txt_7_6_dark: Darker
@@ -779,7 +795,7 @@ txt_compression: Compression
 txt_compmanagement: Computer management
 txt_pw_confirm: Confirm
 txt_console: Console
-txt_console_interface: Console: native interface
+txt_console_interface: Console
 txt_content: Content
 txt_controlpanel: Control panel
 txt_convert: Convert disk to NTFS
@@ -893,8 +909,8 @@ txt_general: General
 txt_multithreading: Generic multithreading
 txt_go_browser: Go to file browser
 txt_go_path: Explore path (PeaZip)
-txt_guicl: Graphic + console
-txt_guipealauncher: Graphic: wrapped by PeaLauncher
+txt_guicl: GUI + Console
+txt_guipealauncher: GUI
 txt_graphic: Graphic's folder
 txt_gridaltcolor: Grids alternate color
 txt_gridrowheight: Grids row height
