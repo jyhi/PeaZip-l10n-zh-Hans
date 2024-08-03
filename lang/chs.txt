@@ -7,9 +7,9 @@ Last rev.: 20240511
 
 === PeaZip text group ===
 
-txt_9_9_uac: Current user cannot write to this output path. Do you want to run PeaZip with UAC elevation?
-TXT_9_9_kdf: KDF rounds
-txt_9_9_utc: Show timestamps as UTC
+txt_9_9_uac: 当前用户无法写入此输出路径。您想用“用户账户控制（UAC）”提升 PeaZip 的权限吗？
+TXT_9_9_kdf: 密钥派生函数（KDF）转换次数
+txt_9_9_utc: 以世界协调时（UTC）显示时间戳
 txt_9_8_alwaysflat: 总是以平面视图打开归档文件
 txt_9_8_fnew: 提取到此处（新建文件夹）
 txt_9_8_fsmart: 提取到此处（智能创建文件夹）
