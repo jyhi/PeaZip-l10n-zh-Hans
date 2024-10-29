@@ -1,12 +1,19 @@
 ﻿=== PeaZip language file ===
 English
-9.9
+10.0
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
 Last rev.: 20240716
 
 === PeaZip text group ===
 
+txt_10_0_exptrash: Explore Trash
+txt_10_0_ptarzst: Fastest compression, TAR.ZST
+txt_10_0_ptarxz: High compression, TAR.XZ
+txt_10_0_ptargz: Medium compression, TAR.GZ
+txt_10_0_comp: Pure compression formats only accept a single file as input. Archive conversion towards those formats will fail if the source contains multiple files or folders, which cannot be determined in advance.
+txt_10_0_save: Save
+txt_10_0_tp: Text preview
 txt_9_9_uac: Current user cannot write to this output path. Do you want to run PeaZip with UAC elevation?
 TXT_9_9_kdf: KDF rounds
 txt_9_9_utc: Show timestamps as UTC
@@ -464,8 +471,8 @@ txt_4_8_t: Transform
 txt_4_8_w: Width
 txt_4_7_pk: Create random password / keyfile
 txt_4_7_spchar: Limit characters to letters and numbers
-txt_4_7_recycleask: Move selected file(s) to Recycle Bin?
-txt_4_7_recycle: Move to Recycle Bin
+txt_4_7_recycleask: Move selected file(s) to Trash?
+txt_4_7_recycle: Move to Trash
 txt_4_7_pcomp: Potential compression
 txt_4_6_am: Archive manager
 txt_4_6_fm: File manager
@@ -841,7 +848,7 @@ txt_dispaly: Display results as
 txt_displayedmnu_obj: displayed
 txt_displayedobjects: Displayed items
 txt_nocompress: do not compress
-txt_delete: Do you want to delete selected file(s)? The operation can't be undone and files will be not recoverable from recycle bin
+txt_delete: Do you want to delete selected file(s)? The operation can't be undone and files will be not recoverable from Trash
 txt_wipe: Do you want to securely delete selected file(s)? The operation can't be undone and files will be not recoverable
 txt_done: Done
 txt_edit: Edit
@@ -1124,7 +1131,7 @@ txt_sendbymail: Send by mail
 txt_set_defaults: Set application's default parameters
 txt_settings: Settings
 txt_sfx_interface: sfx interface
-txt_showhints: Show hints
+txt_showhints: Show hints and tooltips
 txt_show_messages: Show information messages
 txt_showpw: Show password field content
 txt_singlevol: Single volume, do not split

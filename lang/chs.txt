@@ -1,12 +1,19 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-9.9
+10.0
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天
 Last rev. by: Junde Yhi
 Last rev.: 20240803
 
 === PeaZip text group ===
 
+txt_10_0_exptrash: Explore Trash
+txt_10_0_ptarzst: Fastest compression, TAR.ZST
+txt_10_0_ptarxz: High compression, TAR.XZ
+txt_10_0_ptargz: Medium compression, TAR.GZ
+txt_10_0_comp: Pure compression formats only accept a single file as input. Archive conversion towards those formats will fail if the source contains multiple files or folders, which cannot be determined in advance.
+txt_10_0_save: Save
+txt_10_0_tp: Text preview
 txt_9_9_uac: 当前用户无法写入此输出路径。您想用“用户账户控制（UAC）”提升 PeaZip 的权限吗？
 TXT_9_9_kdf: 密钥派生函数（KDF）转换次数
 txt_9_9_utc: 以世界协调时（UTC）显示时间戳
