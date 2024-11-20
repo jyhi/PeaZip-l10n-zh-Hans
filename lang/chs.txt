@@ -1,12 +1,15 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-10.0
+10.1
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天
 Last rev. by: Junde Yhi
 Last rev.: 20241029
 
 === PeaZip text group ===
 
+txt_10_1_full: Full
+txt_10_1_kdfw: KDF work load
+txt_10_1_under: Underlined
 txt_10_0_exptrash: 浏览回收站
 txt_10_0_ptarzst: 最快压缩，TAR.ZST
 txt_10_0_ptarxz: 高压缩率，TAR.XZ
