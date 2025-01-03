@@ -3,11 +3,11 @@ Simplified Chinese - 简体中文
 10.2
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天
 Last rev. by: Junde Yhi
-Last rev.: 20241029
+Last rev.: 20250103
 
 === PeaZip text group ===
 
-txt_10_2_savecopy: Save a copy
+txt_10_2_savecopy: 另存为
 txt_10_1_full: 完全
 txt_10_1_kdfw: 密钥派生函数（KDF）工作量
 txt_10_1_under: 下划线
