@@ -1,12 +1,13 @@
 ﻿=== PeaZip language file ===
 English
-10.1
+10.2
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
-Last rev.: 20241105
+Last rev.: 20241209
 
 === PeaZip text group ===
 
+txt_10_2_savecopy: Save a copy
 txt_10_1_full: Full
 txt_10_1_kdfw: KDF work load
 txt_10_1_under: Underlined
