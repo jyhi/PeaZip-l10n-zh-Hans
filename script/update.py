@@ -54,6 +54,7 @@ for asset in rel["assets"]:
 
       file_zip = ZipFile(file_mem)
       for f in [def_txt, def_reg, chs_txt, chs_reg]:
-        with file_zip.open(str(rootdir / f), "r") as fin:
+        f.parent.mkdir(parents=True, exist_ok=True)
+        with file_zip.open((rootdir / f).as_posix(), "r") as fin:
           with open(str(f), "wb") as fout:
             fout.write(fin.read())
