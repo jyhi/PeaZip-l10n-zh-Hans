@@ -36,7 +36,7 @@ with urlopen(Request(
 )) as response:
     latest_releases = json.load(response)
 
-print(f'=> {latest_releases["name"]} published at'
+print(f'=> {latest_releases["name"]} published at '
       f'{latest_releases["published_at"]}')
 
 about_translations = [
