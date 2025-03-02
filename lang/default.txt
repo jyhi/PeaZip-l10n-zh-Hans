@@ -1,12 +1,18 @@
 ﻿=== PeaZip language file ===
 English
-10.2
+10.3
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
 Last rev.: 20241209
 
 === PeaZip text group ===
 
+txt_10_3_classic: Classic
+txt_10_3_ascii: It is recommended to use only ASCII characters in passwords for the current archive format (mixed case letters, numbers, and special characters).
+txt_10_3_minimal: Minimal
+txt_10_3_m: Modern
+txt_10_3_pm: Postmodern
+txt_10_3_aw: Workaround: check "Force typing password interactively" in the password prompt, or set Console mode for backend binaries.
 txt_10_2_savecopy: Save a copy
 txt_10_1_full: Full
 txt_10_1_kdfw: KDF work load
