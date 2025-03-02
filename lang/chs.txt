@@ -1,12 +1,18 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-10.2
+10.3
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天
-Last rev. by: Junde Yhi
-Last rev.: 20250103
+Last rev. by: yangyangdaji
+Last rev.: 20250228
 
 === PeaZip text group ===
 
+txt_10_3_classic: 经典
+txt_10_3_ascii: 对于当前归档文件格式，建议仅使用 ASCII 字符作为密码（混合大小写字母、数字和特殊字符）。
+txt_10_3_minimal: 极简
+txt_10_3_m: 现代
+txt_10_3_pm: 后现代
+txt_10_3_aw: 解决方法：在密码提示界面勾选"强制交互式输入密码"，或为后端二进制程序设置控制台模式。
 txt_10_2_savecopy: 另存为
 txt_10_1_full: 完全
 txt_10_1_kdfw: 密钥派生函数（KDF）工作量
@@ -375,11 +381,11 @@ txt_5_4_deletefilesconfirm: 确定要删除源文件吗？
 txt_5_4_used: 被使用
 txt_5_3_profilebest: 最大压缩率，7Z 最优
 txt_5_3_profileadvanced: 高压缩率，7Z
-txt_5_3_profilenormal: 中等压缩率，ZIP（兼容大多数提取缩软件）
+txt_5_3_profilenormal: 中等压缩率，ZIP（兼容大多数提取软件）
 txt_5_3_profileveryfast: 快速压缩，ZIP 最快
 txt_5_3_profilepassword: 用密码保护，7z 格式
 txt_5_3_profile10mb: 保持输出小于 25MB，以适应电子邮件附件限制
-txt_5_3_profilesfx: 自提取格式，这样他人就不需要提取缩软件来提取它
+txt_5_3_profilesfx: 自提取格式，这样他人就不需要提取软件来提取它
 txt_5_3_cml: 系统右键菜单语言
 txt_5_3_cmlmessage: 双击所需的右键菜单语言文件并将它们合并到注册表内。不过，在安装 / 升级应用程序后或使用“系统集成”向导后需要重新进行此设置。
 txt_5_3_exc: 排除筛选器的设置覆盖包含筛选器的
@@ -604,7 +610,7 @@ txt_2_8_details: 详细信息
 txt_2_8_parallel: 可能时，并行执行作业
 txt_2_8_convertnote: 归档文件无法修改时，由用户决定保留或删除
 txt_2_8_custom: 不被 PeaZip 直接支持，但在提取阶段，您可以在“高级”标签页中设置关联自定义的文件类型。打开此文件吗？
-txt_2_8_unitrecommend: 建议提取（右击 > 提取缩选定的项目）或者以管理员身份打开文件系统（系统工具 > 将设备作为归档打开）
+txt_2_8_unitrecommend: 建议提取（右击 > 提取选定的项目）或者以管理员身份打开文件系统（系统工具 > 将设备作为归档打开）
 txt_2_8_viewasarchive: 将设备作为归档打开
 txt_2_8_nounit: 未选择设备
 txt_2_8_rowselect: 整行选择
@@ -872,7 +878,7 @@ txt_eqorolder: 等于或早于选定对象
 txt_eqorsmaller: 等于或小于选定对象
 txt_equal: 等于选定对象
 txt_erase_hint: 安全删除：使用随机数据覆盖、伪造大小、重命名，最终彻底删除
-txt_extraction_error: 提取缩选定对象出错。如果归档文件有密码，请输入
+txt_extraction_error: 提取选定对象出错。如果归档文件有密码，请输入
 txt_exclude_hint: 排除文件，每个一行；可以使用 * 和 ? 通配符；不需要用 " 和 ' 分隔
 txt_exclusion_recourse: 排除筛选递归子目录
 txt_exclusion: 排除
@@ -938,7 +944,7 @@ txt_type_description_gzip: GZip：压缩速度快
 txt_here: 到此处
 txt_list_history: 历史记录
 txt_homeroot: 计算机 / 归档文件根目录
-txt_quickbrowse_hint:如果浏览被停止，用户可以使用搜索和过滤功能缩小选择范围；提取缩 / 列出 / 测试功能不受此影响。
+txt_quickbrowse_hint:如果浏览被停止，用户可以使用搜索和过滤功能缩小选择范围；提取 / 列出 / 测试功能不受此影响。
 txt_backupexe_hint: 如果出错，导致非致命性结果，您可以从自动备份中恢复原始的可执行文件
 txt_attach: 如果邮件客户端支持此命令，归档文件将被添加为新邮件的附件
 txt_images: 图像
@@ -1347,9 +1353,9 @@ txt_time: 时间：
 
 === about text group ===
 
-【提取缩】
+【提取】
 在系统中
-——右击归档文件，在右键菜单中选择“提取到此处”或“提取到此处（到新文件夹中）”来直接提取缩
+——右击归档文件，在右键菜单中选择“提取到此处”或“提取到此处（到新文件夹中）”来直接提取
 ——另外，请使用“提取…”菜单可以有更多选项：输出路径，密码，提取到新文件夹，选择忽略、重命名或覆盖已有的文件等。
 
 在 PeaZip 中打开归档文件，比如双击归档文件，或者拖拽归档文件到 PeaZip 窗口或图标上
