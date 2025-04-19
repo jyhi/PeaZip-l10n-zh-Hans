@@ -1,13 +1,13 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
 10.4
-Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天
-Last rev. by: yangyangdaji
-Last rev.: 20250228
+Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想
+Last rev. by: 风之暇想
+Last rev.: 20250419
 
 === PeaZip text group ===
 
-txt_10_4_moving: (Moving)
+txt_10_4_moving: (移动)
 txt_10_3_classic: 经典
 txt_10_3_ascii: 对于当前归档文件格式，建议仅使用 ASCII 字符作为密码（混合大小写字母、数字和特殊字符）。
 txt_10_3_minimal: 极简
@@ -155,7 +155,7 @@ txt_8_1_preparse: 总是预解析归档文件
 txt_8_1_bo: 浏览优化
 txt_8_1_bop: 要显示内含巨量文件的归档文件，可以在选项 > 设置 > 常规标签页中选定“浏览优化”。
 txt_8_1_nopreparse: 不要预解析归档文件
-txt_8_1_ed: 个检测到的错误。
+txt_8_1_ed: 检测到（一个或多个）错误。
 txt_8_1_togglearc: 以平面视图列出归档文件的内容可能要很长时间，继续吗？
 txt_8_1_preparsehint: 优化性能会对大体积归档文件的预解析有限制。预解析用于提前检测归档文件中可能的问题。
 txt_8_1_slow: 慢
@@ -850,7 +850,7 @@ txt_theme_default: 默认主题
 txt_hard_reset_hint: 删除书签文件
 txt_desktop: 桌面
 txt_dictionary: 字典
-txt_dirs: 目录，
+txt_dirs: 目录（一个或多个），
 txt_dis: 消除歧意：
 txt_disk_cleanup: 磁盘清理
 txt_disk_defrag: 磁盘碎片整理
@@ -870,7 +870,7 @@ txt_encrypted: 已加密
 txt_encryption: 加密
 txt_note: 输入备注 / 说明
 txt_random_keys: 按任意健
-txt_random_keys_hint: 随便按一些键（无须记住）
+txt_random_keys_hint: 随便按（你无需记住按了什么键）
 txt_ent: 熵测算
 txt_ent_tools: 移动鼠标或使用其他熵采样工具
 txt_eqorlarger: 等于或大于选定对象
@@ -917,7 +917,7 @@ txt_filetools: 文件工具
 txt_files: 文件，
 txt_nfiles: 文件
 txt_fs: 文件系统
-txt_filters_recourse: 筛选器递归子目录
+txt_filters_recourse: 过滤并递归处理子目录
 txt_filters: 筛选器
 txt_flat: 平面模式（全部显示）
 txt_list_flat: 平面视图
@@ -1440,9 +1440,9 @@ PeaZip 拥有可筛选归档内容的强大的多重筛选器；一次能够处�
 
 其他功能：强加密算法、可靠的文件复制、分割 / 合并文件（文件范围）、安全擦除、比较、校验和计算文件散列、系统基准测试、生成随机密码和密钥文件。
 
-下载地址：https://www.peazip.org/
-更多信息：https://www.peazip.org/peazip-free-archiver.html
-技术支持：https://www.peazip.org/peazip-help.html
-常见问题：https://www.peazip.org/peazip-help-faq.html
+下载地址：https://peazip.github.io
+更多信息：https://peazip.github.io/peazip-free-archiver.html
+技术支持：https://peazip.github.io/peazip-help.html
+常见问题：https://peazip.github.io/peazip-help-faq.html
 
 非常感谢帮助 PeaZip 项目成长和此程序中使用的开源软件（完整列表请访问网址）发展的所有人士，以及所有提供反馈、经验和建议的用户。
