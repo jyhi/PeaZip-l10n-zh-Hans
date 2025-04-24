@@ -1,12 +1,13 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-10.3
+10.4
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天
 Last rev. by: yangyangdaji
 Last rev.: 20250228
 
 === PeaZip text group ===
 
+txt_10_4_moving: (Moving)
 txt_10_3_classic: 经典
 txt_10_3_ascii: 对于当前归档文件格式，建议仅使用 ASCII 字符作为密码（混合大小写字母、数字和特殊字符）。
 txt_10_3_minimal: 极简
