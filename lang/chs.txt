@@ -1,9 +1,9 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
 10.4
-Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想
-Last rev. by: 风之暇想
-Last rev.: 20250419
+Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想，Lin_eclipse
+Last rev. by: Lin_eclipse
+Last rev.: 20250527
 
 === PeaZip text group ===
 
@@ -53,7 +53,7 @@ txt_9_4_r: 读取
 txt_9_4_rw: 读取 / 写入
 txt_9_4_savecomment: 保存注释
 txt_9_4_hintcomment: 在此处输入或粘贴注释，加载或拖拽注释文件到此处。
-txt_9_3_continue: 还要继续吗？
+txt_9_3_continue: 继续此操作？
 txt_9_3_contrast: 对比度
 txt_9_3_fsd: 目标路径的可用空间可能不够
 txt_9_3_fsw: 临时工作路径的可用空间可能不够
@@ -106,7 +106,7 @@ txt_8_8_snon: 储存所有者 / 所有组的名字（TAR，Linux）
 txt_8_8_tab: 标签页
 txt_8_8_altt: 标签页样式
 txt_8_8_autotest: 如果归档文件格式支持，则在创建之后测试它们
-txt_8_8_cw: 窗口色
+txt_8_8_cw: 窗口颜色
 txt_8_7_csvhelp: “,”是国际标准，“;”则在拉丁字母环境中使用较多
 txt_8_7_after: 归档或提取之后
 txt_8_7_bintest: 个组件已通过测试。
@@ -118,7 +118,7 @@ txt_8_7_showsearchbar: 显示搜索栏
 txt_8_7_showsm: 打开样式菜单
 txt_8_7_hnotok: 一些 PeaZip 组件的散列值不符合预期：
 txt_8_7_verifybin: 校验组件的散列值
-txt_8_6_clear: “清除”选项选中的情况下，编辑过的临时文件会被移除；反之，这些文件会被保留，以便继续编辑。
+txt_8_6_clear: 确认则未保存临时文件将移除；取消不会有任何更改
 txt_8_6_noclear: 丢弃所有更改，不要更新归档文件
 txt_8_6_nosimple: 不要更新归档文件，保留编辑过的临时文件以便继续编辑
 txt_8_6_immediate: 立即执行
@@ -170,7 +170,7 @@ txt_8_0_defaultaction: 输入时的默认动作（打开、自动解压……）
 txt_8_0_enableextand: 启用“提取并以…打开”子菜单
 txt_8_0_forcetyping: 强制交互式输入密码
 txt_8_0_setpwopt: 设置密码或密钥文件选项
-txt_8_0_forcetypinghelp: 如果后端支持，此任务将交互式地询问密码。受到的限制：任务将在控制台中运行，不能无人值守，也不能浏览带加密文件名的归档文件。
+txt_8_0_forcetypinghelp: 如果后端支持，此任务将交互式地询问密码。受到的限制：任务将在控制台中运行，无法自动化完成且不能浏览带加密文件名的归档文件。
 txt_7_9_spacing: 间隔
 txt_7_9_zooming: 缩放
 txt_7_8_changelocalization: 更改 PeaZip 的语言
@@ -236,30 +236,30 @@ txt_7_3_archiveerrors: 【归档文件可能含有错误】
 txt_7_3_archiveerrorshint: 归档文件可能（由于文件不存在、文件损坏或基本数据丢失等原因）无效，可以运行测试来获取详细信息。如果归档文件的目录也被加密了，浏览之前还需要密码。
 txt_7_3_clickextall: 点击“全部提取”来启用
 txt_7_3_noconfdel: 归档或提取后文件删除不再要求确认
-txt_7_3_profile7zfastest: 快速压缩，7Z 最快
-txt_7_3_maxbr: 最高 Brotli 压缩率，使用更多内存（可能和其它提取软件不兼容）
-txt_7_3_maxzstd: 最高 Zstandard 压缩率，使用更多内存
-txt_7_3_profile7zfast: 中等压缩，7Z 快速
+txt_7_3_profile7zfastest: 7Z 最快压缩方案
+txt_7_3_maxbr:  Brotli 最高压缩率方案（使用更多内存，可能和其它提取软件不兼容）
+txt_7_3_maxzstd:  Zstandard 最高压缩率方案（使用更多内存，可能和其它提取软件不兼容）
+txt_7_3_profile7zfast: 7Z 中等压缩率，快速方案
 txt_7_3_stl: 将最近文件的时间戳设到归档上
-txt_7_2_altcomp: 另一种压缩，ARC
+txt_7_2_altcomp: ARC压缩方案
 txt_7_2_clearnoupdate: 清除编辑过的文件
 txt_7_2_autoclosepeazip: 任务完成后关闭 PeaZip
 txt_7_2_zpaqall: 提取所有版本
-txt_7_2_extcomp: 极限压缩，ZPAQ
-txt_7_2_extcompultra: 极限压缩，ZPAQ Ultra
-txt_7_2_fbrotlicomp: 最快压缩，Brotli
-txt_7_2_fzstandardcomp: 最快压缩，Zstandard
+txt_7_2_extcomp: ZPAQ极限压缩方案
+txt_7_2_extcompultra: ZPAQ Ultra极限压缩方案
+txt_7_2_fbrotlicomp: Brotli最快压缩方案
+txt_7_2_fzstandardcomp: Zstandard最快压缩方案
 txt_7_2_loadcompsettings: 加载压缩设置
 txt_7_2_savecompsettings: 保存压缩设置
 txt_7_2_source: 源
 txt_7_2_updateclear: 更新归档文件，清除编辑过的临时文件
-txt_7_1_type_description_brotli: Brotli：来自 Google 的快速压缩算法，具有非常快的解压速度
+txt_7_1_type_description_brotli: Brotli快速压缩方案
 txt_7_1_new: 全部提取到此处（新建文件夹）
 txt_7_1_smart: 全部提取到此处（智能创建文件夹）
-txt_7_1_profileintermediate: 中等压缩率，ZIP / BZip2 快速压缩
+txt_7_1_profileintermediate: ZIP / BZip2 中等压缩率快速压缩
 txt_7_1_renfilesonly: 仅对文件重命名
 txt_7_1_typetosearch: 打字以在当前路径搜索
-txt_7_1_type_description_zstd: Zstandard：来自 Facebook 的快速压缩算法，具有非常快的解压速度
+txt_7_1_type_description_zstd: Zstandard快速压缩方案
 txt_7_0_af: 分析文件夹内容
 txt_7_0_autoopentar: 自动从压缩的 TAR.* 文件中打开 TAR 归档文件
 txt_7_0_exttmppath: 内容将提取到临时路径外：
@@ -380,12 +380,12 @@ txt_5_4_lv: 最后访问
 txt_5_4_deletearchivesconfirm: 确定要删除原归档文件吗？
 txt_5_4_deletefilesconfirm: 确定要删除源文件吗？
 txt_5_4_used: 被使用
-txt_5_3_profilebest: 最大压缩率，7Z 最优
-txt_5_3_profileadvanced: 高压缩率，7Z
-txt_5_3_profilenormal: 中等压缩率，ZIP（兼容大多数提取软件）
-txt_5_3_profileveryfast: 快速压缩，ZIP 最快
-txt_5_3_profilepassword: 用密码保护，7z 格式
-txt_5_3_profile10mb: 保持输出小于 25MB，以适应电子邮件附件限制
+txt_5_3_profilebest: 7Z 最大压缩率方案
+txt_5_3_profileadvanced: 7Z高压缩率方案
+txt_5_3_profilenormal: ZIP中等压缩率方案（兼容大多数提取软件）
+txt_5_3_profileveryfast: ZIP最快压缩方案
+txt_5_3_profilepassword: 7z加密压缩方案
+txt_5_3_profile10mb: 保持输出小于 10MB，以适应电子邮件附件限制
 txt_5_3_profilesfx: 自提取格式，这样他人就不需要提取软件来提取它
 txt_5_3_cml: 系统右键菜单语言
 txt_5_3_cmlmessage: 双击所需的右键菜单语言文件并将它们合并到注册表内。不过，在安装 / 升级应用程序后或使用“系统集成”向导后需要重新进行此设置。
@@ -1172,7 +1172,7 @@ txt_suggestpw: 创建随机密码
 txt_noupx: 符号已被移除，UPX 压缩已略过
 txt_syntax: 语法：
 txt_sysbenchmark: 系统基准程序
-txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续吗？
+txt_benchmark: 系统基准测试将耗用几分钟并使用所有可用的 CPU 和内存资源。在此期间，系统可能没有响应；继续？
 txt_systools: 系统工具
 txt_tarbefore: 先用 TAR 归档
 txt_type_description_tar: TAR：UNIX 系统上的主流归档格式
