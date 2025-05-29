@@ -1,7 +1,7 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
 10.4
-Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想，Lin_eclipse
+Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想, Lin_eclipse
 Last rev. by: Lin_eclipse
 Last rev.: 20250527
 
