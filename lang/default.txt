@@ -1,12 +1,20 @@
 ﻿=== PeaZip language file ===
 English
-10.4
+10.5
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
 Last rev.: 20250327
 
 === PeaZip text group ===
 
+txt_10_5_fr: (full report)
+txt_10_5_sectype: Ask confirmation for running following file types
+txt_10_5_checkmotw: Check Zone.Identifier (MoTW)
+txt_10_5_sectypewarning: Do you want to run this file?
+txt_10_5_pathlock: Items in this path of the archive cannot be edited
+txt_10_5_type_description_rar: RAR: proprietary archive format, high compression ratio, supported through external compressor
+txt_10_5_sh: Show hidden files and folders in the filesystem
+txt_10_5_ntfsalt: This format is able to store NTFS Alternate Data Stream, including Mark of The Web
 txt_10_4_moving: (Moving)
 txt_10_3_classic: Classic
 txt_10_3_ascii: It is recommended to use only ASCII characters in passwords for the current archive format (mixed case letters, numbers, and special characters).
@@ -85,7 +93,7 @@ txt_9_0_plugind: Open binaries and Plugin directory
 txt_9_0_df: Sort dirs before files
 txt_9_0_hl: Store hard links as links
 txt_9_0_sl: Store symbolic links as links
-txt_9_0_tnav: Toggle side bar, treeview, none
+txt_9_0_tnav: Toggle navigation bar
 txt_8_9_empty: Archive seems empty
 txt_8_9_disp: Displaying archive content
 txt_8_9_parsing: Parsing archive content
@@ -98,7 +106,7 @@ txt_8_8_centered: Centered buttons
 txt_8_8_light: Light
 txt_8_8_lnk: Link
 txt_8_8_intnote: Please note that "Extract then move" option (in Options > Settings > Archive manager) is ignored for composing the command line in Console tab.
-txt_8_8_snz: Propagate Zone.Identifier stream (Windows)
+txt_8_8_snz: Propagate Zone.Identifier (MoTW) (Windows, NTFS)
 txt_8_8_sm: Small icons size
 txt_8_8_solcol: Breadcrumb bar
 txt_8_8_snoi: Store owner/group ids (TAR, Linux)
@@ -1196,7 +1204,7 @@ txt_threads: Threads
 txt_titlescolor: Titles color
 txt_to: to
 txt_toggle_browseflat: Toggle browse / flat view (show all)
-txt_toggle_historybookmarks: Toggle status bar, bookmarks, history, clipboard
+txt_toggle_historybookmarks: Toggle status bar
 txt_toolbarscolor: Bars color
 txt_tools: Tools
 txt_best: try best settings (slow)

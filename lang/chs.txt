@@ -1,12 +1,20 @@
 ﻿=== PeaZip language file ===
 Simplified Chinese - 简体中文
-10.4
+10.5
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想
-Last rev. by: 风之暇想
-Last rev.: 20250419
+Last rev. by: Junde Yhi
+Last rev.: 20250622
 
 === PeaZip text group ===
 
+txt_10_5_fr: （完整报告）
+txt_10_5_sectype: 在运行下列文件类型之前询问确认
+txt_10_5_checkmotw: 检查 Zone.Identifier（网络标记，MoTW）
+txt_10_5_sectypewarning: 您想运行这个文件吗？
+txt_10_5_pathlock: 不能编辑本归档文件中此路径下的项目
+txt_10_5_type_description_rar: RAR：专有归档格式，高压缩率，由外部程序提供支持
+txt_10_5_sh: 显示文件系统中的隐藏文件和目录
+txt_10_5_ntfsalt: 此格式可以存储 NTFS 备用数据流（Alternate Data Stream），包括网络标记（Mark of the Web）
 txt_10_4_moving: (移动)
 txt_10_3_classic: 经典
 txt_10_3_ascii: 对于当前归档文件格式，建议仅使用 ASCII 字符作为密码（混合大小写字母、数字和特殊字符）。
@@ -85,7 +93,7 @@ txt_9_0_plugind: 打开可执行文件及插件目录
 txt_9_0_df: 将目录排在文件之前
 txt_9_0_hl: 将硬链接存储为链接
 txt_9_0_sl: 将符号链接存储为链接
-txt_9_0_tnav: 切换显示：侧边栏、树状图、都不显示
+txt_9_0_tnav: 切换导航栏显示
 txt_8_9_empty: 归档文件好像是空的
 txt_8_9_disp: 展示归档文件内容
 txt_8_9_parsing: 解析归档文件内容
@@ -98,7 +106,7 @@ txt_8_8_centered: 居中按钮
 txt_8_8_light: 亮色
 txt_8_8_lnk: 链接
 txt_8_8_intnote: 请注意，如果在控制台中编辑了命令行，那么“提取后移动”选项（于选项 > 设置 > 归档管理器中）会被忽略。
-txt_8_8_snz: 传播 Zone.Identifier 流（Windows）
+txt_8_8_snz: 传播 Zone.Identifier（网络标记，MoTW）（Windows，NTFS）
 txt_8_8_sm: 小图标尺寸
 txt_8_8_solcol: 地址块
 txt_8_8_snoi: 储存所有者 / 所有组的 ID（TAR，Linux）
@@ -1196,7 +1204,7 @@ txt_threads: 线程
 txt_titlescolor: 标题颜色
 txt_to: 到
 txt_toggle_browseflat: 切换浏览 / 平面视图（全部显示）
-txt_toggle_historybookmarks: 切换显示：状态栏、书签、历史记录、剪贴板、都不显示
+txt_toggle_historybookmarks: 切换状态栏显示
 txt_toolbarscolor: 工具栏颜色
 txt_tools: 工具
 txt_best: 尝试最佳设置（慢）
