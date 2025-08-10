@@ -1,19 +1,20 @@
 ﻿=== PeaZip language file ===
 English
-10.5
+10.6
 Translated by: Giorgio Tani
 Last rev. by: Giorgio Tani
 Last rev.: 20250327
 
 === PeaZip text group ===
 
+txt_10_6_virtual: Dynamic virtual mode
 txt_10_5_fr: (full report)
 txt_10_5_sectype: Ask confirmation for running following file types
 txt_10_5_checkmotw: Check Zone.Identifier (MoTW)
 txt_10_5_sectypewarning: Do you want to run this file?
 txt_10_5_pathlock: Items in this path of the archive cannot be edited
 txt_10_5_type_description_rar: RAR: proprietary archive format, high compression ratio, supported through external compressor
-txt_10_5_sh: Show hidden files and folders in the filesystem
+txt_10_5_sh: Show hidden files (in the filesystem)
 txt_10_5_ntfsalt: This format is able to store NTFS Alternate Data Stream, including Mark of The Web
 txt_10_4_moving: (Moving)
 txt_10_3_classic: Classic
@@ -450,7 +451,7 @@ txt_5_0_resetpm: Do you confirm resetting Password Manager? All passwords stored
 txt_5_0_enum: Enumerate folder content
 txt_5_0_music: Music
 txt_5_0_ps: Open PowerShell here
-txt_5_0_perf: Performance
+txt_5_0_perf: Performances
 txt_5_0_pictures: Pictures
 txt_5_0_removeall: Remove all
 txt_5_0_resetbookmarks: Reset Bookmarks to default? (Bookmarks can then be customized with Bookmarks > Organize)
@@ -759,7 +760,7 @@ txt_add_folder: Add folder
 txt_add_path: Add path
 txt_add_tolayout: Add selected files and folders to archive's layout
 txt_add_toarchive: Add to archive
-txt_add_tobookmarks: Add to bookmarks
+txt_add_tobookmarks: Add to Bookmarks
 txt_address_hint: Filter: accepts * and ? wildcards
 txt_adv_filters: Advanced filters
 txt_algo: Algorithm
@@ -851,7 +852,7 @@ txt_custom_parameters: Custom parameters
 txt_customsize: Custom size
 txt_cut: Cut
 txt_datetime: Date/time
-txt_default: default
+txt_default: Default
 txt_default_compression: default compression
 txt_default_format: Default format
 txt_theme_default: Default theme
