@@ -2,19 +2,19 @@
 Simplified Chinese - 简体中文
 10.6
 Translated by: Aerowolf, Junde Yhi, Dingzhong Chen, yangyangdaji, ddzzkunye, 無情天, 风之暇想
-Last rev. by: Junde Yhi
-Last rev.: 20250622
+Last rev. by: yangyangdaji
+Last rev.: 20250810
 
 === PeaZip text group ===
 
-txt_10_6_virtual: Dynamic virtual mode
+txt_10_6_virtual: 动态虚拟模式
 txt_10_5_fr: （完整报告）
 txt_10_5_sectype: 在运行下列文件类型之前询问确认
 txt_10_5_checkmotw: 检查 Zone.Identifier（网络标记，MoTW）
 txt_10_5_sectypewarning: 您想运行这个文件吗？
 txt_10_5_pathlock: 不能编辑本归档文件中此路径下的项目
 txt_10_5_type_description_rar: RAR：专有归档格式，高压缩率，由外部程序提供支持
-txt_10_5_sh: 显示文件系统中的隐藏文件和目录
+txt_10_5_sh: 显示文件系统中的隐藏文件
 txt_10_5_ntfsalt: 此格式可以存储 NTFS 备用数据流（Alternate Data Stream），包括网络标记（Mark of the Web）
 txt_10_4_moving: (移动)
 txt_10_3_classic: 经典
